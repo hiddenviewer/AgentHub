@@ -119,14 +119,13 @@ document.addEventListener("DOMContentLoaded", () => {
       const badgeClass = item.lang === "ko" ? "badge-ko" : "badge-en";
       const badgeText = item.lang === "ko" ? "KR" : "EN";
       
-      // Naver Papago translation link for English articles to avoid region blocking
-      let translateBtnHtml = "";
-      if (item.lang === "en" && !item.link.includes("news.google.com")) {
-        const translateUrl = `https://papago.naver.com/?sk=en&tk=ko&hn=1&st=${encodeURIComponent(item.link)}`;
-        translateBtnHtml = `
-          <a class="card-translate-btn" href="${translateUrl}" target="_blank" rel="noopener noreferrer">
-            🌐 한글 번역 보기
-          </a>
+      // Translation tip for English articles instead of broken links
+      let translateTipHtml = "";
+      if (item.lang === "en") {
+        translateTipHtml = `
+          <div class="card-translate-tip">
+            <span>💡 <b>번역 팁:</b> 마우스 우클릭 후 <b>'한국어로 번역'</b>을 사용해보세요.</span>
+          </div>
         `;
       }
 
@@ -144,6 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="card-meta" style="margin-bottom: 0.5rem;">
             <span class="card-date">${item.displayDate}</span>
           </div>
+          ${translateTipHtml}
           <div class="card-actions">
             <a class="card-link-btn" href="${item.link}" target="_blank" rel="noopener noreferrer">
               원문 읽기
@@ -152,7 +152,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 <polyline points="12 5 19 12 12 19"></polyline>
               </svg>
             </a>
-            ${translateBtnHtml}
           </div>
         </article>
       `;

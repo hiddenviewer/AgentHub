@@ -411,24 +411,20 @@ body {
   transition: var(--transition-smooth);
 }
 
-.card-translate-btn {
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-  color: var(--accent-cyan);
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-decoration: none;
-  background: rgba(8, 145, 178, 0.05);
-  padding: 0.25rem 0.5rem;
-  border-radius: 6px;
-  transition: var(--transition-smooth);
+.card-translate-tip {
+  background: rgba(0, 0, 0, 0.02);
+  border: 1px dashed rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  margin-top: 0.25rem;
+  margin-bottom: 0.50rem;
 }
 
-.card-translate-btn:hover {
-  background: rgba(8, 145, 178, 0.1);
-  color: var(--accent-cyan);
-  transform: translateY(-1px);
+.card-translate-tip b {
+  color: var(--accent-color);
 }
 
 .card:hover .card-link-btn {
