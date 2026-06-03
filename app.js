@@ -119,10 +119,10 @@ document.addEventListener("DOMContentLoaded", () => {
       const badgeClass = item.lang === "ko" ? "badge-ko" : "badge-en";
       const badgeText = item.lang === "ko" ? "KR" : "EN";
       
-      // Google Translate link for English articles
+      // Naver Papago translation link for English articles to avoid region blocking
       let translateBtnHtml = "";
       if (item.lang === "en" && !item.link.includes("news.google.com")) {
-        const translateUrl = `https://translate.google.com/translate?sl=en&tl=ko&u=${encodeURIComponent(item.link)}`;
+        const translateUrl = `https://papago.naver.com/?sk=en&tk=ko&hn=1&st=${encodeURIComponent(item.link)}`;
         translateBtnHtml = `
           <a class="card-translate-btn" href="${translateUrl}" target="_blank" rel="noopener noreferrer">
             🌐 한글 번역 보기
