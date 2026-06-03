@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Concepts & Guides",
+    "items": [
+      {
+        "title": "What are AI Agents? (IBM Guide)",
+        "url": "https://www.ibm.com/topics/ai-agents",
+        "description": "AI 에이전트의 정의, 동작 원리, 유형 및 활용 사례에 대한 종합 가이드"
+      },
+      {
+        "title": "Introduction to Agentic AI (NVIDIA)",
+        "url": "https://blogs.nvidia.com/blog/what-is-agentic-ai/",
+        "description": "에이전틱 AI가 무엇인지와 엔터프라이즈 환경에서의 잠재력 소개"
+      },
+      {
+        "title": "LLM Powered Autonomous Agents (Lilian Weng)",
+        "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+        "description": "LLM 기반 에이전트 시스템 설계(Planning, Memory, Tool use)를 다룬 필독서 같은 블로그 글"
+      }
+    ]
+  },
+  {
+    "category": "Frameworks & Tools",
+    "items": [
+      {
+        "title": "LangGraph",
+        "url": "https://github.com/langchain-ai/langgraph",
+        "description": "복잡한 멀티 에이전트 시스템 구축을 위한 순환 그래프 기반 프레임워크"
+      },
+      {
+        "title": "CrewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "description": "역할 기반의 자율 AI 에이전트 오케스트레이션을 위한 프레임워크"
+      },
+      {
+        "title": "Microsoft AutoGen",
+        "url": "https://github.com/microsoft/autogen",
+        "description": "대화형 멀티 에이전트 애플리케이션 개발을 위한 프레임워크"
+      }
+    ]
+  },
+  {
+    "category": "Key Papers",
+    "items": [
+      {
+        "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+        "url": "https://arxiv.org/abs/2304.03442",
+        "description": "가상 마을에서 상호작용하는 25명의 생성 에이전트를 다룬 스탠포드 논문"
+      },
+      {
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "url": "https://arxiv.org/abs/2210.03629",
+        "description": "LLM이 추론(Reasoning)과 행동(Acting)을 결합하여 문제를 해결하는 프레임워크 제안"
+      }
+    ]
+  }
+]

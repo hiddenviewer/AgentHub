@@ -1,0 +1,40 @@
+name: Auto Collect News & Deploy
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 9시, 오후 9시 (UTC 00:00, 12:00)에 실행
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 수동 실행 지원
+
+permissions:
+  contents: write # 리포지토리에 변경된 JSON 커밋을 푸시하기 위함
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Run news collector script
+      run: python scripts/collect_news.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # 변경 사항이 있는지 확인
+        git add data/news.json
+        if git diff --quiet && git diff --staged --quiet; then
+          echo "No changes in news data. Skipping commit."
+        else
+          git commit -m "chore: auto-update news data [skip ci]"
+          git push
+        fi

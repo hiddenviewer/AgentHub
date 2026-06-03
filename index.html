@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgentHub | AI 에이전트 뉴스 & 학습 아카이브</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="AgentHub는 최신 AI 및 AI 에이전트 관련 뉴스를 자동으로 수집하고, 핵심 학습 자료를 체계적으로 정리하여 제공하는 오픈소스 아카이브 웹사이트입니다.">
+  <meta name="keywords" content="AI, AI Agent, Agentic AI, 인공지능 에이전트, AI 뉴스, AI 공부 자료, LangGraph, CrewAI, AutoGen">
+  <meta name="author" content="AgentHub">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AgentHub | AI 에이전트 뉴스 & 학습 아카이브">
+  <meta property="og:description" content="AI 에이전트의 오늘과 내일, 수집부터 학습까지 한곳에서 확인하세요.">
+  <meta property="og:url" content="https://github.com/AgentHub">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="AgentHub | AI 에이전트 뉴스 & 학습 아카이브">
+  <meta property="twitter:description" content="AI 에이전트의 오늘과 내일, 수집부터 학습까지 한곳에서 확인하세요.">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Background Gradients -->
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <!-- Header Section -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="logo-area">
+        <span class="logo-icon">🤖</span>
+        <h1 class="logo-text">AgentHub</h1>
+      </div>
+      <p class="tagline">AI 에이전트의 오늘과 내일, 수집부터 학습까지 한곳에서.</p>
+      
+      <!-- Tab Navigation -->
+      <nav class="tab-navigation" aria-label="메인 메뉴">
+        <button class="tab-btn active" id="tab-news-btn" data-target="tab-news" aria-selected="true" role="tab">
+          <svg class="tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="M16 8h2m-10 4h10M8 16h10"/></svg>
+          최신 뉴스 수집
+        </button>
+        <button class="tab-btn" id="tab-resources-btn" data-target="tab-resources" aria-selected="false" role="tab">
+          <svg class="tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.168.477-4.5 1.253"/></svg>
+          학습 자료 정리
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main class="app-content">
+    <div class="content-container">
+      
+      <!-- News Tab Content -->
+      <section id="tab-news" class="tab-pane active" role="tabpanel" aria-labelledby="tab-news-btn">
+        <div class="filter-bar">
+          <!-- Search Input -->
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" id="news-search" placeholder="뉴스 제목 또는 언론사 검색..." aria-label="뉴스 검색">
+          </div>
+          
+          <!-- Filter Tags -->
+          <div class="filter-groups">
+            <button class="filter-btn active" data-lang="all">전체</button>
+            <button class="filter-btn" data-lang="ko">국내 뉴스</button>
+            <button class="filter-btn" data-lang="en">해외 뉴스</button>
+          </div>
+        </div>
+
+        <!-- News Cards Grid -->
+        <div class="grid-container" id="news-grid">
+          <!-- Loading State -->
+          <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>최신 뉴스를 가져오는 중입니다...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Resources Tab Content -->
+      <section id="tab-resources" class="tab-pane" role="tabpanel" aria-labelledby="tab-resources-btn">
+        <!-- Resource Sections Wrapper -->
+        <div class="resources-wrapper" id="resources-container">
+          <!-- Loading State -->
+          <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>공부 자료를 불러오는 중입니다...</p>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- Footer Section -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <p>© 2026 AgentHub. All rights reserved.</p>
+      <p class="footer-desc">
+        이 웹사이트는 GitHub Actions를 통해 12시간마다 최신 AI 에이전트 뉴스를 자동으로 수집하여 운영되는 오픈소스 페이지입니다.
+      </p>
+      <div class="footer-links">
+        <a href="https://github.com/user/AgentHub" target="_blank" rel="noopener noreferrer" id="github-link">
+          <svg class="github-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.11.82-.26.82-.577v-2.234c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22v3.293c0 .319.22.694.825.576C20.565 21.795 24 17.3 24 12c0-6.63-5.37-12-12-12z"/></svg>
+          GitHub Repository
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- App Logic -->
+  <script src="app.js"></script>
+</body>
+</html>
