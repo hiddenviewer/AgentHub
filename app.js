@@ -119,12 +119,15 @@ document.addEventListener("DOMContentLoaded", () => {
       const badgeClass = item.lang === "ko" ? "badge-ko" : "badge-en";
       const badgeText = item.lang === "ko" ? "KR" : "EN";
       
-      // Translation tip for English articles instead of broken links
+      // Hover tooltip for English articles native translation guide
       let translateTipHtml = "";
       if (item.lang === "en") {
         translateTipHtml = `
-          <div class="card-translate-tip">
-            <span>💡 <b>번역 팁:</b> 마우스 우클릭 후 <b>'한국어로 번역'</b>을 사용해보세요.</span>
+          <div class="translate-tooltip-wrapper">
+            <span class="translate-tooltip-trigger" aria-label="번역 팁">💡</span>
+            <div class="translate-tooltip-content">
+              마우스 우클릭 후 <b>'한국어로 번역'</b>을 사용해보세요.
+            </div>
           </div>
         `;
       }
@@ -143,7 +146,6 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="card-meta" style="margin-bottom: 0.5rem;">
             <span class="card-date">${item.displayDate}</span>
           </div>
-          ${translateTipHtml}
           <div class="card-actions">
             <a class="card-link-btn" href="${item.link}" target="_blank" rel="noopener noreferrer">
               원문 읽기
@@ -152,6 +154,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <polyline points="12 5 19 12 12 19"></polyline>
               </svg>
             </a>
+            ${translateTipHtml}
           </div>
         </article>
       `;
