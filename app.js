@@ -118,23 +118,41 @@ document.addEventListener("DOMContentLoaded", () => {
     newsGrid.innerHTML = filteredNews.map(item => {
       const badgeClass = item.lang === "ko" ? "badge-ko" : "badge-en";
       const badgeText = item.lang === "ko" ? "KR" : "EN";
+      
+      // Google Translate link for English articles
+      let translateBtnHtml = "";
+      if (item.lang === "en") {
+        const translateUrl = `https://translate.google.com/translate?sl=en&tl=ko&u=${encodeURIComponent(item.link)}`;
+        translateBtnHtml = `
+          <a class="card-translate-btn" href="${translateUrl}" target="_blank" rel="noopener noreferrer">
+            🌐 한글 번역 보기
+          </a>
+        `;
+      }
 
       return `
-        <article class="card" onclick="window.open('${item.link}', '_blank', 'noopener,noreferrer')">
+        <article class="card">
           <div class="card-meta">
             <span class="badge ${badgeClass}">${badgeText}</span>
             <span class="card-source">${escapeHtml(item.source)}</span>
           </div>
-          <h3 class="card-title">${escapeHtml(item.title)}</h3>
-          <div class="card-meta">
+          <h3 class="card-title">
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+              ${escapeHtml(item.title)}
+            </a>
+          </h3>
+          <div class="card-meta" style="margin-bottom: 0.5rem;">
             <span class="card-date">${item.displayDate}</span>
-            <span class="card-link-btn">
-              자세히 보기
+          </div>
+          <div class="card-actions">
+            <a class="card-link-btn" href="${item.link}" target="_blank" rel="noopener noreferrer">
+              원문 읽기
               <svg class="card-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                 <line x1="5" y1="12" x2="19" y2="12"></line>
                 <polyline points="12 5 19 12 12 19"></polyline>
               </svg>
-            </span>
+            </a>
+            ${translateBtnHtml}
           </div>
         </article>
       `;
