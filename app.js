@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
       
       // Google Translate link for English articles
       let translateBtnHtml = "";
-      if (item.lang === "en") {
+      if (item.lang === "en" && !item.link.includes("news.google.com")) {
         const translateUrl = `https://translate.google.com/translate?sl=en&tl=ko&u=${encodeURIComponent(item.link)}`;
         translateBtnHtml = `
           <a class="card-translate-btn" href="${translateUrl}" target="_blank" rel="noopener noreferrer">
