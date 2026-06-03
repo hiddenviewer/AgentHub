@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function init() {
     setupTabs();
     setupFilters();
+    setupTooltipClickToggle();
     fetchData();
   }
 
@@ -45,6 +46,33 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
       });
+  }
+
+  // Tooltip click toggle handler
+  function setupTooltipClickToggle() {
+    document.addEventListener("click", (e) => {
+      const trigger = e.target.closest(".translate-tooltip-trigger");
+      
+      if (trigger) {
+        // Prevent click from bubbling to document and immediately closing
+        e.stopPropagation();
+        e.preventDefault();
+        
+        const wrapper = trigger.closest(".translate-tooltip-wrapper");
+        wrapper.classList.toggle("active");
+        
+        // Close all other tooltips
+        document.querySelectorAll(".translate-tooltip-wrapper").forEach(w => {
+          if (w !== wrapper) {
+            w.classList.remove("active");
+          }
+        });
+      } else {
+        // Close all tooltips when clicking outside
+        document.querySelectorAll(".translate-tooltip-wrapper").forEach(w => {
+          w.classList.remove("active");
+        });
+      }
     });
   }
 
@@ -70,13 +98,14 @@ document.addEventListener("DOMContentLoaded", () => {
   // Fetch Data (News & Resources)
   async function fetchData() {
     try {
-      // Fetch news and resources in parallel
+      // Fetch news and resources in parallel with cache busters
+      const cacheBuster = Date.now();
       const [newsRes, resourcesRes] = await Promise.all([
-        fetch("./data/news.json").then(res => {
+        fetch(`./data/news.json?t=${cacheBuster}`).then(res => {
           if (!res.ok) throw new Error("Failed to load news");
           return res.json();
         }),
-        fetch("./data/resources.json").then(res => {
+        fetch(`./data/resources.json?t=${cacheBuster}`).then(res => {
           if (!res.ok) throw new Error("Failed to load resources");
           return res.json();
         })
