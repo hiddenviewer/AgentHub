@@ -3,8 +3,16 @@ import json
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+import time
 from datetime import datetime
 from email.utils import parsedate_to_datetime
+
+# 구글 뉴스 URL 디코딩 라이브러리 로드 시도
+try:
+    from googlenewsdecoder import new_decoderv1
+    HAS_DECODER = True
+except ImportError:
+    HAS_DECODER = False
 
 # 데이터 저장 경로 설정
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -92,12 +100,22 @@ def main():
     
     # 기존 데이터 로드
     existing_news = []
+    existing_titles = set()
+    existing_news_dict = {}
+    
     if os.path.exists(NEWS_FILE_PATH):
         try:
             with open(NEWS_FILE_PATH, "r", encoding="utf-8") as f:
                 content = f.read().strip()
                 if content:
                     existing_news = json.loads(content)
+                    
+                    # 중복 판별을 위해 제목 세트 및 매핑 딕셔너리 구축
+                    for item in existing_news:
+                        title = item.get("title", "").strip()
+                        if title:
+                            existing_titles.add(title)
+                            existing_news_dict[title] = item
         except Exception as e:
             print(f"Error reading existing news file: {e}")
             
@@ -107,27 +125,63 @@ def main():
         print(f"Fetching RSS: {feed['url'][:60]}...")
         new_articles.extend(fetch_rss_news(feed))
         
-    # 데이터 병합 및 중복 제거 (링크 기준)
-    all_news_dict = {}
-    
-    # 기존 뉴스 먼저 담기
-    for item in existing_news:
-        link = item.get("link")
-        if link:
-            all_news_dict[link] = item
-            
-    # 신규 뉴스 덮어쓰기/추가 (더 최신 정보가 있을 수 있으므로)
+    # 기존에 없던 진짜 '신규 뉴스'만 필터링 (제목 기준)
+    new_unique_articles = []
     for item in new_articles:
-        link = item.get("link")
-        if link:
-            all_news_dict[link] = item
-            
-    # 리스트로 변환 후 날짜 기준 내림차순 정렬
-    merged_news = list(all_news_dict.values())
-    merged_news.sort(key=lambda x: x.get("pubDate", ""), reverse=True)
+        title = item.get("title", "").strip()
+        # 이미 수집된 뉴스면 건너뜀
+        if title in existing_titles:
+            continue
+        new_unique_articles.append(item)
+        
+    print(f"Found {len(new_unique_articles)} new unique articles.")
     
-    # 최대 150개 보관
-    final_news = merged_news[:150]
+    # 신규 뉴스 디코딩 (최종 기사 원본 URL 찾기)
+    if HAS_DECODER and new_unique_articles:
+        # 안전장치: 과도한 요청으로 인한 429 차단을 막기 위해 한 회에 최대 25개까지만 디코딩을 진행합니다.
+        # 디코딩되지 못한 건 일단 원래 RSS 주소를 가지고 리스트에 추가됩니다.
+        decode_limit = 25
+        decode_targets = new_unique_articles[:decode_limit]
+        remain_targets = new_unique_articles[decode_limit:]
+        
+        print(f"Decoding actual URLs for the first {len(decode_targets)} new articles...")
+        
+        decoded_articles = []
+        for idx, item in enumerate(decode_targets):
+            raw_url = item["link"]
+            print(f" -> [{idx+1}/{len(decode_targets)}] Decoding: {item['title'][:40]}...")
+            
+            try:
+                # 1초 대기 후 호출하여 안정성 확보
+                time.sleep(1)
+                decoded_res = new_decoderv1(raw_url, interval=1)
+                
+                if decoded_res.get("status"):
+                    item["link"] = decoded_res["decoded_url"]
+                    print(f"    Success: {item['link'][:60]}")
+                else:
+                    print(f"    Failed: {decoded_res.get('message')}")
+            except Exception as e:
+                print(f"    Error during decoding: {e}")
+                
+            decoded_articles.append(item)
+            
+        # 디코딩 완료된 기사 + 디코딩 제한에 의해 미뤄진 기사들 합치기
+        processed_new_articles = decoded_articles + remain_targets
+    else:
+        if not HAS_DECODER:
+            print("Decoder library is not installed. Skipping URL decoding.")
+        processed_new_articles = new_unique_articles
+
+    # 기존 뉴스에 신규 가공 뉴스 병합
+    for item in processed_new_articles:
+        title = item.get("title", "").strip()
+        existing_news_dict[title] = item  # 기존 데이터가 있으면 신규 데이터로 교체/없으면 새로 추가
+        
+    # 정렬 및 최대 보관 수(150개) 제한
+    final_news = list(existing_news_dict.values())
+    final_news.sort(key=lambda x: x.get("pubDate", ""), reverse=True)
+    final_news = final_news[:150]
     
     # 저장
     try:
