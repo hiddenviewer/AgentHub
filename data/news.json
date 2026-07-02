@@ -1,5 +1,733 @@
 [
   {
+    "title": "AI Agent Memory Learns Across Sessions: Huawei Framework Ships With China Data Risk",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT3NRN0hqbjM4Z1B3bmh0RDVrRE5DRHBNMlhVRHFJanBtd0dRMlU5dWstRzh5UTk4a252U01YUkR4Qkl3WWpMZGhncG0wYWh5dzFaNGhnOUR1a0VKMnVNUVFITXF6UWxobXNRTzV3V3VLT1RkQmJkVUVSWkt5YkJDT0xGZzBCM254eTFzMjJVRVdQWEUyWWxvZ3VXS1RQODR3M1lFWUx1Q1BaSDl4VTQ0X2tmbWRLMlgxdEVSZ29rVlZVdW82OElteTBnN1o?oc=5",
+    "pubDate": "2026-07-02T13:54:03+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Tech Times",
+    "lang": "en"
+  },
+  {
+    "title": "iTmethods Joins the Linux Foundation, FINOS, and Agentic AI Foundation to Advance Governance Standards for Regulated Agentic AI",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZG5Pc0JNM0xXekZlQ1BjOUp3U1ppeWtSaEVPOWZDVDd2cEx3V3IzUVc1ZURRTm52X3hfT1RzaHdacndzRDQ5REt5azdWQjlYaWhsUUU0Q1ZtOVc3ZXl5dXd2WjdZTFpsQU1DYUpXa051VjlLV1RvN21uVjRIVjRGQndlVlNnZjdjdEhURElqcTY0QTlPRGxRWFU3SVN1RnNHMlhjaTc5MjNVT0NBeUZmczFDbmFXblQxRnE0ekJNNmxaZmE0UXNHUHptSFpXcEY3bVoxbkVEYWpIV1VZTUJIRXcySThodF9EQXdMZ1pVNDRzdG5qUEpvWFJxSXQ3VmVONWpIT1NkaU9kbjBCaUE?oc=5",
+    "pubDate": "2026-07-02T13:28:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "PR Newswire",
+    "lang": "en"
+  },
+  {
+    "title": "Business solutions provider Alloyed partners with agentic AI platform Supervity",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1EyNTJ2MEcwN2JPNG9pZkNfRzdvT0NGdTlCWEViZFgxRkJ4ejQ0Z09mU0JOQVFsQTg2OGcwT3hYWm9fOHhGVFl2T0NfdXdUVzl2amNzOXB0ajFaeFdWZGJ1cGpIbzllU0FQODBJdWd4YmhoQl9SaWJtZWNiSUdETFNncEcyNXRoNnJjQUU5THloaEdIM0U1M2lXYjNmSGFWX0RGN0h3Y0czdFd2SFJ4M2t5RmhVM3dJbFQw?oc=5",
+    "pubDate": "2026-07-02T13:20:02+00:00",
+    "displayDate": "2026-07-02",
+    "source": "ROI-NJ",
+    "lang": "en"
+  },
+  {
+    "title": "Z.ai, GLM-5.2 전용 코딩 에이전트 'Z코드' 출시...커서·클로드 코드와 격돌",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mVHdiVnZxbERhYXEyWC1XZm9QVmtxT2x5Mm5wajR1dW9TZ0Uyd1F1TFdrM2JtdjdUQVR3bHVIWjY3aWR4RjNFckhaZlNqb3cyaVRQMFhmVllYWm9CZW1KUTJlc3VsTHZNSFRXWjhPVFJhZDA?oc=5",
+    "pubDate": "2026-07-02T13:05:05+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털투데이",
+    "lang": "ko"
+  },
+  {
+    "title": "Profound Launches an AI Agent to Manage End-to-End Marketing",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFhQb2E3aDVyZktNVEpwbjFnWUVuSFp4dUpJamozZVB0RUF3LW5UVkZkUnpaakJSRjdyc01BVDVQVDc3MUw5VVctTmZOV2tvV2NGaVo3Qk4taFpsU3ZkRU1DakRUTjE2WGxQSXN5YXVQUlluWDdZZVlHUm9MemdGdERJRUV5UHYwdlBLYnlUa0VGOE9q?oc=5",
+    "pubDate": "2026-07-02T13:00:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "ADWEEK",
+    "lang": "en"
+  },
+  {
+    "title": "로빈후드 CEO “AI 에이전트, 곧 인간 트레이더 수준 역량 갖출 것”",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMWt4TFNaQm1fcEN0UG1YcWl4OGhjSkZXLWJxYWQ4WlA1ZUhvLUROengzQkt0NXB3eVBLT3pTdHRPWkZhYkVxNXpURTFLZ1BYU3lwcURrNmZqU2tuaENOWnU1VWxxSUk1X1JlUnRsdXBubVU?oc=5",
+    "pubDate": "2026-07-02T12:55:34+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털투데이",
+    "lang": "ko"
+  },
+  {
+    "title": "ELEKTROS Announces Smart Grid Intelligence Initiative Utilizing Agentic AI to Mitigate Extreme Heatwave Energy Demands",
+    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQm5VWkJ6NTlQWV9KeWdTcVhYWmktYmRGLXJMX2JfRkpib1A0b05sa3hjWjB5QVFnbGhmSlQ0M2k5dU52c3ZRXzloYnVrMXFNY0I0ei1DZU02dEdlNWVjOVpBOEtvVTVGZkNtdURWUHdFeF80VHRhSzJaX1NjV3MyZ0dHTUl5eDh2YXBWYnh4WlBJcEozTkphbmV3M19KbW93SzFtTXRMNENOa0k0YjFmUjhCSndIRUc1TmViWmQ5TWpRRVJ3SjB1amJGOXR3ZWN6MEhfaU96d0VwU1RPZjA3TC1LMDFaOVdUMGdVajVyMVVXM3pPNndnSnZzSmFiUlhFZVRNXzJMSVF2U3RvVExmeUxCSENYRDBWaDR4TTltQUdoVVhDbXJ6b19zVVcxbWlNMmlEMjdn?oc=5",
+    "pubDate": "2026-07-02T12:51:18+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Corsicana Daily Sun",
+    "lang": "en"
+  },
+  {
+    "title": "HBM 패키지 설계도 AI가 직접 한다…KAIST 테라랩, 오픈클로 활용 사례 공개",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tWEhFU25nOHl2SkVMMjFhOTlLOTAyTkJrMlVXeHZLSF9BRWdpckxsNjN6a19VQ2djUERCRW53bUhScmtxZkVjeUxMOW1kVmRyUGZzVEpDTlpGVF9yTzZvQ1pzcy1MaVV5c3N4VThNTdIBc0FVX3lxTFBwWXJMNlNOaUJUdGswOFliNXZBZjFoa25oSUJkemgzenBPUk52MW9YQXhqeVhIUUJrSFZLWmZuTXVQVFI5U2NnX3dvZHdGN0g0NHF2cno1NGhNcHVqSC1JeW9YRXdUa2dPSVFmNHVEUkg4OUE?oc=5",
+    "pubDate": "2026-07-02T12:40:09+00:00",
+    "displayDate": "2026-07-02",
+    "source": "뉴스웍스",
+    "lang": "ko"
+  },
+  {
+    "title": "[#시큐리티 포커스] KT '퀀텀코리아' 참가·일에이엔-엑스게이트 '아태지역 보안 파트너십'·펜타 '올해의 기업상'·유니온바이오 '생체인식 AI 보안 MOU'·디지털인증협 'AI 에이전트 신원관리 국제표준' 개발·씨큐비스타 'SOC 운영 패러다임 보안보고서'",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNFFpWkR1WnVBMm9HTVRhS2VMc0dXRXBrUUFfaFhabGRDbXpHSS1weFdxN3dISlVRb3FveUtvUUV0Y3JkQXpkMjloWENFaUNRQXVLQnpUZ3RqanVkakNuaFR3RnA1d2NfeGoxcUV0SdIBc0FVX3lxTE5MdndTT3duaERkSlVtT1JBUEVhWl9uLTlWOE5MaFNUOE9hMGhOeWd2TEZLVzFwWHZGcktyWTJYT05BdFNwbWt5RVRfaktWVWNoQm9LcDJnRzFXTGNEVGc4aU1JUTdXaDk4dmwtMVdvTWozMTg?oc=5",
+    "pubDate": "2026-07-02T12:40:05+00:00",
+    "displayDate": "2026-07-02",
+    "source": "뉴스웍스",
+    "lang": "ko"
+  },
+  {
+    "title": "Agentic AI puts $234B in enterprise SaaS spending at risk, Gartner says",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlFuZ2hheDBDNXVnTjlCbVpVZUNYUUM3MGduR2ZhZWRyMHBaQUpKUVhRbGZ2NE5CQ1NCWHdoQkRteWl3YVJFakdLWjZ6YWtuMjQ2bHdWcmZhLVR3MEZwQWUxQ21vU0xhWldJSjhFMmZUNklzVXVBVk1NQlRQV3RyYngydk8xczhGa2ZrdGItdzdCMFJ4TkhTeFBvdHg0VXhVR3l2UnlQZUZjY0pZZFBB?oc=5",
+    "pubDate": "2026-07-02T12:23:01+00:00",
+    "displayDate": "2026-07-02",
+    "source": "cio.com",
+    "lang": "en"
+  },
+  {
+    "title": "How Agentic AI, Connected Ecosystems Are Transforming Logistics",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFYyV1pLV2dtUThzdWZqNktwQ0tVOTA2RkYzSzU5VzNxeXl3ejEwNmswNGtIazVUYjV1YS1TbmJIU3ZKLVo3ejYwN0RXcGh2bzNlRnpKQUVTX2hVYk01S25POFFCdjlMeTdFRDhvcUEyamZkUGpyVkNZdWI2LXBpMnMxdS1kTms4SXlvNDgwSXlnZnl1ekE4dkdoTVIzMTd3ZE9DZVJiRWI?oc=5",
+    "pubDate": "2026-07-02T12:10:34+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Mexico Business News",
+    "lang": "en"
+  },
+  {
+    "title": "BBVA completes AI agent-initiated transaction together with Visa",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk9TamotQWlHd1pPT2xwYUhYYjltclNrbzF1cElpQzZBdmpYek5hc0U1cmZiT0pvTHpSNDZrRzVWb0MxV190Z3pFUjAwQzA1MUFjdjNBRkJoZ29wN2JHMkxzU2dmSjJacmxzV3lITjU5SXc5UXhPY01fQzZzSkhjcGpBdXdCRFNseFRNQkEwdDRwZVZNNWM1eld3czItajVoWmlXY2NqblhjdzJ0U3c?oc=5",
+    "pubDate": "2026-07-02T12:05:02+00:00",
+    "displayDate": "2026-07-02",
+    "source": "FX News Group",
+    "lang": "en"
+  },
+  {
+    "title": "Robinhood's CEO says AI will trade stocks as well as humans",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dXFETmtvSUVXSHpxU1A5OERJVk84YVJuYmVlS3NDdjdsMWNucWRoeHdwbkFtUUt5SHRZU1FWZHBWSm4yd2kteEVuOTlJaGxJNGdjZmtTMW5vYWdHMHU3aktwX1pmR0NsU1F2Uw?oc=5",
+    "pubDate": "2026-07-02T12:00:34+00:00",
+    "displayDate": "2026-07-02",
+    "source": "qz.com",
+    "lang": "en"
+  },
+  {
+    "title": "Robinhood launches AI agent trading and credit card tools",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcERUcnpJSjZkc1lXMHYyS1ZpVFNaYzJ3Zm83UV9jYnoyVlI5d2g0cUl0QmZFNlVJQzNONDBvdGVjWV9yVklBUk1RYXNRRi1pU1dRUGphVzF6blFJYmVlaTRVQ3UyRjJlVVN0aDNIZTNqSlhMY3Fha2ptb0dDbFA4VDhKMzRWTDVBMkpQVl95d2xibXVzeDNmdk1MVGxCZTMya1E?oc=5",
+    "pubDate": "2026-07-02T11:53:16+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Yahoo Finance",
+    "lang": "en"
+  },
+  {
+    "title": "Why Agentic AI Needs to be Part of Your Operations Management Strategy",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNkxtUHFEbVRpcmdJTWI1YmFrYkdRVEZkSkR1eHV2YnJXRnpBcnZTbUNZRTJXU3duNFdpa0NCNEZ4YnhhM2Y1RmpmZzcyOEYtcE5ybTRSYWM0aE9rTjl4RWFyd1ZMZ3hPeE5VQ3FVTDVBallvb2c?oc=5",
+    "pubDate": "2026-07-02T11:53:15+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Unite.AI",
+    "lang": "en"
+  },
+  {
+    "title": "Microsoft Flags MCP Tool Descriptions as Hidden AI Agent Attack Path",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vTjhEUVBFVlBmbmhlMjhtME5iWHpuZzBtYkt3VFR6ODhBaWUwbjdrdUtXeldjQ25BQW9CM0hVczZGSk55ZEdia29odE01TlIxQU1LZFl3cXFwdTNpSVkzTVpwYnJtWDBYMk5YcS1IRlBGZG9u?oc=5",
+    "pubDate": "2026-07-02T11:52:30+00:00",
+    "displayDate": "2026-07-02",
+    "source": "TechRepublic",
+    "lang": "en"
+  },
+  {
+    "title": "Shopping without searching: The Agentic AI future Amazon, Swiggy and Zepto are building in India",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMTVpTWt0YWN5VThnX2t4RXo1U3VxNDVwUUVQcVRSRjIwQ0lpNUdEOHE0Q29JcGFpUWpaUTYtcm9Sd2JTOE9USVFBczZ2MmFhYXhZT2h3MFJMMjVINUlteTByT0pEWEpqdkV4LU14eWNTZEIwZG90UTBiYWY5aWZKTHJIaU91amo1OHVzSzk5cXNUdGJyZVdxcHpBQUh1RVRYc0lJUnRLY24wd1FOSWo2Qm90aThwMzRDbDk5SWVwN21rOXpwbEk1ZjdKSVdBODdnUE9SZ0tXY2hTdzhUNXhBbFhyLTBMQVhyWC0yUVFLNFdwX2kydTRleVRB0gH_AUFVX3lxTE95UHhaYS01YkpiOGk1NzJfZVRHY0k4bGhma2tGRm82d2hEZzNCRVZzZU1ycTdwc01sVXF5UFlIREpnamlqdTk5RzFsSEFEVVN2TF94Mm1FWTJfUFpRLUhhcFlZNnc0MHZNV0ZWZ25hUzdqUDRKOHRDRGNQNEZ3eXhKaUNBTDhhQU84N25meW8xS2dIcDVYdGF2Q3liWkc3TUhSdTJoelppd05YbDExNlNudEc2dW1JTVdhT29sS0ZCV3JxZk9pVjhxOWVOWF82REhoa0g0ZUZtSEhTZll2cnN5V2xtUHljdHFwT3NoTXZBci1CbnJkVlhNZkpXOUt5aw?oc=5",
+    "pubDate": "2026-07-02T11:11:24+00:00",
+    "displayDate": "2026-07-02",
+    "source": "The Economic Times",
+    "lang": "en"
+  },
+  {
+    "title": "Sitemetric Launches the First Agentic AI for Integrated Construction Site Access Control and Monitoring",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHc1MTJsanJOODBaT29QMWZobDltQ1JyekVsTU8zN29WV3IteWhIZDAxVlJ0Mm1QbG9PY09PYW5HRlBYeURoOGtLcVp1TWNfMmR3X1JjbjFWMk9ONzFhdFVZaTFFM2NvWnVzaUdKSHNnQUo3RkVQWTMxQVd5WG1GcXVzRE1DekQ0Z1JzMU0xZTN1WlpYZ19FY1o1cW1YbWZvZWdSeWZiYlJCUVB3NFVXNnJYaDNLWUVYTTNCVWJVekNUS2pUYVItRXd4QTQ0U1JNM25VZXJIRHcxZWJKWi1LaFFEU19raDVuckotUEpxT3Y?oc=5",
+    "pubDate": "2026-07-02T11:02:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "PR Newswire",
+    "lang": "en"
+  },
+  {
+    "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 개발 본격화",
+    "link": "https://www.dailysecu.com/news/articleView.html?idxno=207437",
+    "pubDate": "2026-07-02T10:57:05+00:00",
+    "displayDate": "2026-07-02",
+    "source": "데일리시큐",
+    "lang": "ko"
+  },
+  {
+    "title": "AI 에이전트가 곧 인간 트레이더 수준에 도달할 것, Robinhood Markets CEO 발언",
+    "link": "https://kr.investing.com/news/stock-market-news/article-2003828",
+    "pubDate": "2026-07-02T10:57:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Investing.com 한국어",
+    "lang": "ko"
+  },
+  {
+    "title": "AMCAP Global Unveils Next-Gen 'Agentic AI' in Exclusive Beta: Redefining Intelligent Asset Management and Investor Companionship",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPazBYbFM2UF93cW00THk0S1pKX0U3cVpub18zemxSTDIxTWNWNGk1T0FVTGRNTm8tTkxYYlR4VnZ2dkw5QmYyRndaUzF6QS1BM3cxUXYtYWN2ekl4akFlallrX3pLZ2h5Q1NEZ3hmc0c0eVNvMzQ3SVRvTHBvWi1zYjQzNVVGX09INFEwRnN5SDRUWk54VmxhVXlxcU1aTHFjdWxJV2pEM3BZTEN1NGhGSHZ0cmJhSktWTnp5a0JVeGtmN2pYSnl6TmQ3ZDVTZlVfSFlPMVl1aGFBNlRUU2duZDdXSWtqcmlOc1VIcEhPcTRjSEpQSUJOa3RBbVRkR0p4ZjFYUUl1anZYOVlheDdaTzF3?oc=5",
+    "pubDate": "2026-07-02T10:32:55+00:00",
+    "displayDate": "2026-07-02",
+    "source": "markets.businessinsider.com",
+    "lang": "en"
+  },
+  {
+    "title": "NICE Incorporates Agentic AI Into Sopra Steria Operations",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkxycjlJRDV3MVEtRld2S3llOXl1NWxVWFQwNTBmWkppOFptd2RvRTJ0ekI5OXFkVl9lUlctbG41c09md1d3dmxRMmg2ckR4S0laRk8wNXgzUzVIZUhnT0UwQTZWZHl4LVhka2FsaE1QVFpIdFgzNlliZDVTUUN5SWpVSVcwNVluNmVMNEpUVU9qVE9aemhVQzRnRFZtQ0p4MWxvNzlhV0gzdzJMX29V?oc=5",
+    "pubDate": "2026-07-02T10:32:23+00:00",
+    "displayDate": "2026-07-02",
+    "source": "marketscreener.com",
+    "lang": "en"
+  },
+  {
+    "title": "Post-trade is the place for agentic AI workflows",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakV2MmU1R21vaG43cEZ6VTVQZnNZY0hsbjlUS0JNc1BpYXN3empQbGd6bTNXSzJqRmRlU041LTllRE11NERDWjRrWXBWall6d05UM0wtRVQ5YXNTLTVnYWFIMVpraG1hS1hoVFhmczVWaFUweGFlczlnTG1ESWx2LVowb0E2VXdMenJmYmowRGV1V2xCeFBQTQ?oc=5",
+    "pubDate": "2026-07-02T10:18:46+00:00",
+    "displayDate": "2026-07-02",
+    "source": "FinTech Futures",
+    "lang": "en"
+  },
+  {
+    "title": "Okta CEO Todd McKinnon Is A Billionaire Again Thanks To Agentic AI Strategy",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVW9vWmZJMHhBSzRHNzBydWZLcXFzX2RaUU1OaWZTN3NkZ2M5M0o4LTJia3hQWFcwcVBkQ2RTYUJIZlVYaTk0VWc4VTNTYnRGdXprODFUMS1yM2hiaUFoUGo2T003NjlsNG43c1lhSmowbmJvWTZWTWNicmVEendfclVfVmhBN05sSUNBOUxzSzc5Zjd5OWViZmZDYWVzQUl4aXRjcnNtdXFvQVE?oc=5",
+    "pubDate": "2026-07-02T10:00:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Forbes",
+    "lang": "en"
+  },
+  {
+    "title": "Will Agentic AI Disrupt the Traditional SaaS Model?",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Pbmk4elBRejVYVndOMGNRUGp0N0ZjRjJHTi1wcm82Rzl5QmhsSEJqUENINjBabW9mODFfZ1dMZ2RWQ2pwazYxaHB5aTFEd05zWnpFVmtvMnI0RjRIWWhZdmNXTUZ0N3hBX1NUbWEwQkw4M1VRRGEzcEhmazVNdw?oc=5",
+    "pubDate": "2026-07-02T09:43:56+00:00",
+    "displayDate": "2026-07-02",
+    "source": "digit.fyi",
+    "lang": "en"
+  },
+  {
+    "title": "“앤트로픽 AI 에이전트 ‘클로드 데스크톱’ 악용 해킹 성공”",
+    "link": "https://m.boannews.com/html/detail.html?tab_type=1&idx=144468",
+    "pubDate": "2026-07-02T09:33:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "보안뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "TikTok unveils agentic AI solutions for advertisers",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajFjMXdxZkdUbzd1RXM3QkFDMmVaTFVJRXZpT1pRcjFpVUVfVnUtQ21rcS0zcmZpTm1xdXdCZDB2dkxteEU0VnJ0c05PY0sxNjY5UWs5ZWp5b3VLNG9GLXltb3JsR3FreGRrYk04SFYzUXhaU3JEODU0Z0VLTFljaFJ6Q3V6Ml9LODdnZXJQLUhGU2JSZ25sWWRhYWlwNnd3YkE5aEZvLVJnNHc?oc=5",
+    "pubDate": "2026-07-02T09:26:24+00:00",
+    "displayDate": "2026-07-02",
+    "source": "The Daily Star",
+    "lang": "en"
+  },
+  {
+    "title": "SK AX-한전기술, 발전소에도 AI 에이전트 심는다…에너지 AX 본격화",
+    "link": "http://www.itdaily.kr/news/articleView.html?idxno=240213",
+    "pubDate": "2026-07-02T09:18:43+00:00",
+    "displayDate": "2026-07-02",
+    "source": "아이티데일리",
+    "lang": "ko"
+  },
+  {
+    "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSGU1Y3pjd3BjRGllY3NDT2x5ZWI3MEpza1A5UGFRVDBNUEE2OEZ4RDZfc2RJeVhJOUNZUEVEb2t0d1RzVzFmUkhwTnhRZ29vMHVuT1RwS0ZzYXFFTXhlVlk2TE1PZ0kxNWdpc3RtY1U4VU9YTDdoNWdZbTU?oc=5",
+    "pubDate": "2026-07-02T09:13:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "The Hacker News",
+    "lang": "en"
+  },
+  {
+    "title": "[AI픽] \"AI 대리님 신분증 보여주세요\"…에이전트도 신원인증 시대",
+    "link": "https://www.yna.co.kr/amp/view/AKR20260702157100017",
+    "pubDate": "2026-07-02T08:55:18+00:00",
+    "displayDate": "2026-07-02",
+    "source": "연합뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "AMCAP Global Unveils Next-Gen \"Agentic AI\" in Exclusive Beta: Redefining Intelligent Asset Management and Investor Companionship",
+    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQd3g1R0JYOWd4UG5qQkp6UVZwcmVXdkZJZWszRGlKWjNfYWxqZ0pGZU5DNWJSU1hScl9IRzdsNGpyYjUwTWppUWtFNzJ4S0dJY1Z2aFRINm5wRlhkY2o2U0lHejNncDFtVV9RTFJRWlMyemJDOEVDdDZQRlZueXBYQ0RJd3V4YnBReS1obXVaRjJ3QjRUMGRkNVZUakw1ckV5dzdIS1diaEQ3SU1zcVg5STBWWUhldDQ4eDJBZUhURlJVX0lHaUVwOFdzZXRyS3VITWpqZEhOaUtkekhnSUROWG5DR0JFbGZWOVc5Zjk1Qk45SUo1cUtCdlNvMWdfRFMzYi1kT3JQVDE4ejNxTmxIcFRnSVBTSDJGUGV5d3dBSVBTbVg2MzZNakdSVVZ0VUpoZVBidjNfeEloQQ?oc=5",
+    "pubDate": "2026-07-02T08:54:06+00:00",
+    "displayDate": "2026-07-02",
+    "source": "lincolnjournal.com",
+    "lang": "en"
+  },
+  {
+    "title": "Adobe expands agentic AI ecosystem with new partnerships across WPP, Accenture, Omnicom and Stagwell",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRUVaMFZ4dE1mTE43dEJWN2d4LTlSQy1GR3pRMk1aMVJ3MlNESnE2WVFRZllHaW5KQnF5MElST084WGpZek55aW5RdlRLOWxockR0bkZWTzRST0JLQWxieUd0Wks2azByYURjTV9Hc0t5bk5Tald5UVoyOXp5aHZ2MkhLN05HY1F4S2V2TERHeEt6QkxTekNHektDbHM1VGhvaGxzQVN1WHl2dm9HQXVPd2c1Qy1uZmdfR3AxUS0tQ2pfX1VLZkROMnM1S3FCYUFzeEpXQjdNQXlwM3JlQXdObjZnZUE2LUVlaHfSAe8BQVVfeXFMUExBWG5qRThxT0Q1dmpFLTdSMDhhVDhzeTVjd0VvUDM2NTB0NG9FajJ4OGFoZHhxSjdvTlhkU0F6TGstVjdSLXdvQzlJa1luYVhsSkdDaURoajdMX3Ffakc3aWJoVl9lak1FUGF3YmFka3E2Q1RPMTlxVGpIemQyNnQ4WTNpRng3VEU5LW1sOUN3R2tlVkR6UGtJYUZ0ZUZoX3dQV2pLX1VaWUE1SUc2bWpWSFN2Vl9FSEhEb0ZJb3doVWNDdHczX2s4ZXBWRjR3QnpsZXRhdGdMc1RKOUpCcWFhX1Zwb3lhYXpIUVNBYWc?oc=5",
+    "pubDate": "2026-07-02T08:35:35+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Storyboard18",
+    "lang": "en"
+  },
+  {
+    "title": "\"산업용 AI 에이전트·피지컬 AI 결합, 韓 새 성장 동력\"",
+    "link": "https://www.ddaily.co.kr/page/view/2026070217240737372",
+    "pubDate": "2026-07-02T08:25:06+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털데일리",
+    "lang": "ko"
+  },
+  {
+    "title": "Adobe expands agentic AI ecosystem with new agency and technology partnerships",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmhZQkVIMmF3Vjk2LWFwcGR4WkI2cHotUTlZcmctd203aVgyT3ZteERFSjlTVnVWX2w4N3ljZ3pCVDNJU3ViMndPRkpUY25qUDZmbkRoYTV1WlB1OVBUWGxFWFNqaE1sdjR4TkpYanRZUHVPcXFqcXZKMWhSYUVsdGEtM0E0dDRYbGl5UWNzUWRkNGZBWnBKWWhGajgwbGdWMlRKdUtrampUWTg?oc=5",
+    "pubDate": "2026-07-02T08:16:14+00:00",
+    "displayDate": "2026-07-02",
+    "source": "MediaNews4U",
+    "lang": "en"
+  },
+  {
+    "title": "씨큐비스타, AI 증강형 분석 에이전트로 SOC 운영 패러다임 전면 재편 제안",
+    "link": "https://www.hellot.net/news/article.html?no=113569",
+    "pubDate": "2026-07-02T08:11:50+00:00",
+    "displayDate": "2026-07-02",
+    "source": "헬로티",
+    "lang": "ko"
+  },
+  {
+    "title": "RTX 스파크 : 개인용 AI 시대의 PC를 위한 슈퍼칩",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1NXX0hsczB4QjhVSW1RX0ZGZnJKbnAtNTZheW1WUVFHSlVNNTh4WlBHQkVwclBLNVY3ejNDTllhRDJLWi1HcFVPS2syNGhIaWxFb3k1TnoxSDNIY21kMl8yZlltQ1hkM0h1eTRJWnNCNnE4d3ZGSGU4cGMzMm1DYkpfVVh0Y2Z4NmRNNGJpalk3cVhf?oc=5",
+    "pubDate": "2026-07-02T08:09:02+00:00",
+    "displayDate": "2026-07-02",
+    "source": "캐드앤그래픽스",
+    "lang": "ko"
+  },
+  {
+    "title": "배환국 소프트캠프 대표 “AI 에이전트 보안, 추적·통제·인증·검증이 핵심”",
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165048",
+    "pubDate": "2026-07-02T08:00:39+00:00",
+    "displayDate": "2026-07-02",
+    "source": "IT조선",
+    "lang": "ko"
+  },
+  {
+    "title": "Top 7 AI Agent Platforms for Industrial Manufacturing in 2026",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU09ab3JCdlVHal9ITGkxNlMxY21wTlFqeHl1OW9jSDBDczZLRG5lWU5HN2Rwa2xHS1oyVUp6d1p1ckxiNzZ3TVNsaV84aVc2VWV4OW4wT3BiTERLOE9oSTRkSS01OURtQ2FuZnFtbXFaN2ZxWW5FZ3hDcEp0TUNSZnI0TWxUN3l5Y1RtNDZBZUNTdFBRekVvckdyaUJMS3dPR3NDbVpwNUpsVDlTNlpZZC1BWUJGV1RUd1E?oc=5",
+    "pubDate": "2026-07-02T07:52:19+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Robotics & Automation News",
+    "lang": "en"
+  },
+  {
+    "title": "“AI 통제, 문서 출처 추적부터”... 소프트캠프, AI 시대 등급 분류 전략 제시",
+    "link": "http://m.boannews.com/html/detail.html?idx=144459&skind=i",
+    "pubDate": "2026-07-02T07:49:54+00:00",
+    "displayDate": "2026-07-02",
+    "source": "보안뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "가트너 \"소프트웨어 종말 아닌 수익 모델 재편…AI 에이전트, SaaS 판 바꾼다",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56T3NHYl9yWTU0a3pKbmxkV2xpdTVGbXRWT2NzUi1md1NoVVE2aWhlZVlxdy0zd2Zlc2p2R3VNMUZXNXByMTduSkdpUGE5YzZLUVhj?oc=5",
+    "pubDate": "2026-07-02T07:47:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "네이트",
+    "lang": "ko"
+  },
+  {
+    "title": "Cybersecurity best practices with agentic AI adoption",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XSnE4Wl9WYlladnhLSnNkYzlsaGx1NXBaNE1meDFhUkZGbWVlU2Q5SFdOVm56c19ZTDBVSFN6UjRud2xZeTltUU9qanlsQ2l6ODZVRWdoU3djMndROHE0SnJFWE93OWlLa2FvcE9wS05ZVjVQWnQ4djhxNGRNUUU?oc=5",
+    "pubDate": "2026-07-02T07:42:17+00:00",
+    "displayDate": "2026-07-02",
+    "source": "The AI Journal",
+    "lang": "en"
+  },
+  {
+    "title": "[김동원 칼럼] AI 에이전트, 경제 전반으로 확산돼야",
+    "link": "https://v.daum.net/v/20260702163816452",
+    "pubDate": "2026-07-02T07:38:16+00:00",
+    "displayDate": "2026-07-02",
+    "source": "v.daum.net",
+    "lang": "ko"
+  },
+  {
+    "title": "포밸류소프트, AI 에이전트 통합 관리 플랫폼 ‘Sunstone AI Hub’ 출시",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NbzhfdkZNNVBUeG1KQUIyRlFvRS1yOFIxdU5NLVB3cnNZUVFWM1g3V2VVRFpxYzdPNGNJZkdkVk02YUxRVkRDZ1hrbTZqbDl4UEJfRUhwemxSZ0VhMnp3V2xXc1BzNUlwX3dLQg?oc=5",
+    "pubDate": "2026-07-02T07:29:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "IT비즈뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "\"AI가 내 공동 창업자\"···KAIST 창업원, '1인 유니콘' 시대 개척",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tQS1CLTFEN01iaUtXaENfNG5HaVpLRURpbXlHalhEbmFzOHZORXV3UjhkZy1sTk5OUjlSSEdmd1J6UEZoNk1GR2hHYWNnNzN5Y0xEb0p3cjRrbTRrRkR1SXhJR3NfS1ZPeWc?oc=5",
+    "pubDate": "2026-07-02T07:20:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "헬로디디",
+    "lang": "ko"
+  },
+  {
+    "title": "“AI도 문서로 일한다”…소프트캠프, 에이전트 보안으로 확장",
+    "link": "https://byline.network/2026/07/2-432/",
+    "pubDate": "2026-07-02T07:19:49+00:00",
+    "displayDate": "2026-07-02",
+    "source": "바이라인네트워크",
+    "lang": "ko"
+  },
+  {
+    "title": "AI 에이전트는 왜 RAG가 필요한가…장기 기억이 만드는 성능 차이",
+    "link": "https://www.cio.com/article/4192034/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%99%9C-rag%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80%EC%9E%A5%EA%B8%B0-%EA%B8%B0%EC%96%B5%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94.html",
+    "pubDate": "2026-07-02T07:05:44+00:00",
+    "displayDate": "2026-07-02",
+    "source": "cio.com",
+    "lang": "ko"
+  },
+  {
+    "title": "수일 걸리던 작업 30분 만에 끝···LG전자, AI 에이전트로 R&D 생산성↑",
+    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422138",
+    "pubDate": "2026-07-02T06:57:33+00:00",
+    "displayDate": "2026-07-02",
+    "source": "시사저널e",
+    "lang": "ko"
+  },
+  {
+    "title": "포밸류소프트, AI 에이전트 관리 솔루션 ‘Sunstone AI Hub’ 출시 - 조선비즈",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjFMWW9FSjZRSjdBODRvWkVjU2QwSl9iTzdXV1I5MmlZODZMbUFsLS1RVndJSU5pS1ZEOTFLOG9IQVdMV3lQbkpEVktBVmVDMlY1ZDc3clp2SEtkUG0zWGF3XzJvZUJtVDhhcU5sX3duUHpqM25PMUZrblFCRWhMcUlWZDhteUNpOVd6dtIBoAFBVV95cUxQRmFlN3Btcjl3cXhleXZDaTUtY0tuY2k2OUlOUzhOWHJrU0xqYzJCcDVRUXlyejJpdXJZVmZpSXlPZGwtc0d0eVBRV3RmamkwbGJLajhYTmM1bjNhVTJmd3ZTa2NMX3lSc3JsdTdSTV92OE5DQnRZNUxhTzJzNnVPLTZSLVRHV2w5OGE3WnhwTHpiVjhiVzM1WFV2NXRpamdJ?oc=5",
+    "pubDate": "2026-07-02T06:54:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Chosunbiz",
+    "lang": "ko"
+  },
+  {
+    "title": "씨큐비스타 “보안관제 체계, AI 에이전트로 재편해야”",
+    "link": "https://www.etnews.com/20260702000384",
+    "pubDate": "2026-07-02T06:53:51+00:00",
+    "displayDate": "2026-07-02",
+    "source": "전자신문",
+    "lang": "ko"
+  },
+  {
+    "title": "소프트캠프, AI에이전트 시대 새 보안 패러다임 제시",
+    "link": "https://v.daum.net/v/20260702155143036",
+    "pubDate": "2026-07-02T06:51:43+00:00",
+    "displayDate": "2026-07-02",
+    "source": "v.daum.net",
+    "lang": "ko"
+  },
+  {
+    "title": "행안부, 'AI 정부 실험실' 운영...\"공무원이 직접 현장 혁신\"",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Qa0dLXzQ1ZWE5ejFHakxqb09NNkdaUXh6ajlnRHVaa3hEaF93LXRCUGJoNUdCaEhwbDNLNHBoQmpTU190R3hTcm5QUDRRTERGeTJSa3l6bGlCZEt1M3RkZmJHT1ZRUQ?oc=5",
+    "pubDate": "2026-07-02T06:49:02+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디일렉",
+    "lang": "ko"
+  },
+  {
+    "title": "공무원 위한 코딩 놀이터 생긴다… ‘AI 정부 실험실’ 3일부터 시범 가동 - 조선비즈",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlAwOGFTN25sVHYzR1dQcVZxb3ZzRVB3UVZIcENCM3IySnU0YWs5SWQ1Y0NraWw5Mlpkb21HMS15Ykc1Wi1KRklUazY2bWZNc2EtNzJvZXZtSnB1NzdIUUZxemU4d0ZrbFl4dEY2ZVpVcy1qS0JoQ0l5a3NVSEJtcWJ3TjlqalE0d3fSAZ4BQVVfeXFMTjR5UmxkYzlLZUMwc2RDLWZxUmN6dk1iX2Fma2JlcW55RFVpXzFiSzd0bl9XYXNqemdhNjVIXzlyT0ZqckI0Zmx5UDlqV3o5RU12YzQyWjRSM0VpT0RVTDlrRWd1aXhnZl9USzY4b1Nxamd4ZXFqMjVYV3Y4clVsQ3RyNmoxNmx3ZlBRNGNMaG96aDBCS0xXN0lPTTg2dWc?oc=5",
+    "pubDate": "2026-07-02T06:45:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Chosunbiz",
+    "lang": "ko"
+  },
+  {
+    "title": "포밸류소프트, NH농협은행에 AI 에이전트 통합 플랫폼 ‘Sunstone AI Hub’ 도입 완료",
+    "link": "https://www.seoul.co.kr/news/economy/2026/07/02/20260702500168",
+    "pubDate": "2026-07-02T06:44:42+00:00",
+    "displayDate": "2026-07-02",
+    "source": "서울신문",
+    "lang": "ko"
+  },
+  {
+    "title": "순수 관리직의 종말… AI 에이전트가 바꾸는 조직구조",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIc1E5WTlyWUpqX2xHQ29QQ2N6cUFUQTBCcTZOSHZHU1EwUWpIR3Y2SGxmMEt5WENBSUVPM19ZSVo3Q3U2WGZMNEp0QVRVeGVEMThJOUlR?oc=5",
+    "pubDate": "2026-07-02T06:36:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "더밀크",
+    "lang": "ko"
+  },
+  {
+    "title": "AI 에이전트 시대 성큼…소프트캠프, 보안도 '차단'에서 '통제'로",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdzhRTU9zbVpSQm1aN3FiMDJnc3Y5NGhqWUJ3d3VjbWRGaUVMdzNxbUxFbzRfOGRCZ0t0SEtKajEzOVQ1VzNWT0U5RF8yX2tZbGVodHM4anJVem5udkRyZGVJdDJzN3V2YzNSWDZuWjVoLVRyVloxaXl6c01kWGR6Mg?oc=5",
+    "pubDate": "2026-07-02T05:57:10+00:00",
+    "displayDate": "2026-07-02",
+    "source": "이데일리",
+    "lang": "ko"
+  },
+  {
+    "title": "Bank of England warns agentic AI threatens financial stability",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xSFJfVlQyYVk0QmkyeWc1OHFra0M5MlFOR3R4aWpYYWF6QmNGN1paa3JsS0p6Qmt5SFJkTUpnTnR4azRjbG5zQjU2Mi1lYlhaRkRjbkFUbHdCTzgzWUs3Mm1lVjZLUXlfeDZ1SWZfakxqQk50M1F2NFRBQ3A?oc=5",
+    "pubDate": "2026-07-02T05:30:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Digital Watch Observatory",
+    "lang": "en"
+  },
+  {
+    "title": "Job ads show DeepSeek aims for an AI agent with cybersecurity capabilities",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXVlZFZOS014cU9SQVZGbEhQamlrYUF5OU1jcW82bGUzTDJhZXk5TUJGenVXbjRQSEJ3MXVfM182aEtPdFh6dl8zU2YyWHdXMUtLVkxtMk9iVllBQk9VVWE4ZzZmQmhoQk11TXcwMGNkQWtGZHlvUmg3ZXhVekk1MDR2TzEtSlYtZUR6dzhnS3VxZDNJWXNKWXRCdGJsNkU4bzZ1Uw?oc=5",
+    "pubDate": "2026-07-02T05:27:32+00:00",
+    "displayDate": "2026-07-02",
+    "source": "The Strategist | ASPI's analysis and commentary site",
+    "lang": "en"
+  },
+  {
+    "title": "칠리즈, OKX AI 마켓플레이스에 팬토큰인텔 MCP 출시",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96UFAtWE1zbGxBS2N2Yk5WRVkzUTJ2UzNoWm55ejEtWUxoY2YzS2hUYVFTNFpYZVE3ckxVa2VtbnlnaTJrS0Vncm5XRUJDUQ?oc=5",
+    "pubDate": "2026-07-02T05:22:08+00:00",
+    "displayDate": "2026-07-02",
+    "source": "전자신문",
+    "lang": "ko"
+  },
+  {
+    "title": "[AI픽] AI 에이전트 시대 보안 화두는 '권한 관리'",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82NTBFS2kyOVFCVUNLMlU3S0lRdk1pVnFyQ3pwNXJtWTNESzN0cmxEa1RQbkhMbXJVNV85ZlVIZ1o1OHlUM2VYaWU1c3pDcTVtbjlz?oc=5",
+    "pubDate": "2026-07-02T05:20:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "네이트",
+    "lang": "ko"
+  },
+  {
+    "title": "'금융 AI 에이전트' 링크알파, 340억 규모 신규 투자 유치",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1M09OZDdNR094SFl0Y0N5eEhGOHd2anE2bjAxekxiTDYyTWducWplSHdsTjAyMnBOOTRDWExMaTBuS1BMcE82Y3U2d2d6M1lNbUU4MA?oc=5",
+    "pubDate": "2026-07-02T05:17:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "이투데이",
+    "lang": "ko"
+  },
+  {
+    "title": "배환국 소프트캠프 대표 \"AI가 회사 시스템까지 접속…권한 통제 없인 위험\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fS1N4ZjdXdjVPa0RWSkc0VzhPN3lJRDVoNUl1dkNDY1hQUjB1NjBpQURXRUhPQ0JMeDlUQU9BMXBMbVk0RjNISlJDak5NTmR5YmVrOUF5clA1Z3lXSDd4VNIBeEFVX3lxTE9jQVprVmdMbXpRa0JXV09UMmswRmR6RDRqME1rUlNlVEdVLUpfN3I1ZUd2XzNibkI2X1c4cE1GUjhzeklyMXJ4U0M0dmtKTkozMWU0bThWek9ROWFGVXlkWi1DazhGd25ZVUhscDlWTTFJU3JWWmNpSg?oc=5",
+    "pubDate": "2026-07-02T05:13:15+00:00",
+    "displayDate": "2026-07-02",
+    "source": "뉴시스",
+    "lang": "ko"
+  },
+  {
+    "title": "AWS, 에이전트형 AI 현장 엔지니어링 조직 신설",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GWnZONmFPR1lsX2lsd0thWXhHYmZISHVMUlhORlVpMDhSbzAwLXVEVzcyRnl1Z2FGSERZbnl0aUhpaEg0cDZGYUxwUWhqTkdyaFBPYkNJR0hiTmhqWnRxNmlVSGs0cVhnaWJKYg?oc=5",
+    "pubDate": "2026-07-02T05:12:04+00:00",
+    "displayDate": "2026-07-02",
+    "source": "데이터넷",
+    "lang": "ko"
+  },
+  {
+    "title": "소프트캠프, AI 보안 4대 원칙 제시…추적·통제·인증·검증",
+    "link": "https://www.etnews.com/20260702000290",
+    "pubDate": "2026-07-02T05:11:44+00:00",
+    "displayDate": "2026-07-02",
+    "source": "전자신문",
+    "lang": "ko"
+  },
+  {
+    "title": "보안관제, AI 에이전트가 주도한다... SOC 패러다임 대전환 예고",
+    "link": "https://v.daum.net/v/20260702133523000",
+    "pubDate": "2026-07-02T04:35:23+00:00",
+    "displayDate": "2026-07-02",
+    "source": "v.daum.net",
+    "lang": "ko"
+  },
+  {
+    "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 개발 나서",
+    "link": "https://v.daum.net/v/20260702132546698",
+    "pubDate": "2026-07-02T04:25:46+00:00",
+    "displayDate": "2026-07-02",
+    "source": "v.daum.net",
+    "lang": "ko"
+  },
+  {
+    "title": "한컴, 36년 만에 사명 변경…AI·에이전트 사업 확대 공식화",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vS1ljVDNTQS1SU3pfTHc5MlFydjZua3ZqY3ZtS3lrNXFjbDhqMmt2bkkyQkFvdU1lVy1kSk5pcS1Dd1U1WW00QWpldl9HbTVUd3BndTZhSzgxd1RQR2hsNmpKVlY?oc=5",
+    "pubDate": "2026-07-02T04:15:09+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털데일리",
+    "lang": "ko"
+  },
+  {
+    "title": "소프트캠프, 고객사 대상 세미나 개최… \"AI 허용하되 통제는 필수\"",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFNmS2pTVjNFb001VlNYbHVfSExManl5Nmo2MEFpallQOWIzZkRjZUdNczNuY29vb2haaHFxUXU2QUFvcndNZkkzOGllYks1X19VUEJTT1J2QlBlbDJya1Y1aW90ZVNKa2pBeFozbUM1WkRzOEdoTDZjSWxWNVpscFNn?oc=5",
+    "pubDate": "2026-07-02T04:02:24+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Chosunbiz",
+    "lang": "ko"
+  },
+  {
+    "title": "소프트캠프 \"AI는 허용, 통제는 필수\"…AI 에이전트 시대 보안 전략 제시",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1adjNIdzdzZmtfMnpNS1NDSTZwQWU2U0FUeHJmN21rTHJOY0Zmczc5QXdRVnc0bnBSV0ZTcUE0YkF6cGtjZlBVWm9hWklGT1FyZlRF?oc=5",
+    "pubDate": "2026-07-02T04:00:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "네이트",
+    "lang": "ko"
+  },
+  {
+    "title": "Lifecycle Software at DTW Ignite 2026: Cloud-Native BSS, Agentic AI & the Future of Telecom Operations",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSERNVGVMVDE5cHJxaWlXVi1iX1VMMjRLTlFaZllHa2Q5cTRVeUdpYnFERnlBcWpYUmdUeFk2dndyOXVIcjRCclFody14VFVNanEyRDViZUEwTTl2UVR3QXQ5UUpHX1I2NExLdE5ISjhBbFpZQU5jZDh5NVFidDgwRFJ5emo3eXQtUm9WYmxOV0lQRjdiY0VENTZSQ1VTdS1UNUI3d0lfdzFnaW82VFA5dURfdUVEUFcyLVBXc3FxMllTN3MtTGZ0eVlmTkYyTGRfeTJreDNYOA?oc=5",
+    "pubDate": "2026-07-02T03:27:53+00:00",
+    "displayDate": "2026-07-02",
+    "source": "The Fast Mode",
+    "lang": "en"
+  },
+  {
+    "title": "LG CNS, ‘AWS 시큐리티 에이전트’ 도입 효과 톡톡",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhX1pLNVJHZ2ZtYldZS01Jbks1ekMtRU1zUE1jaFZGT2otMGtLMnNJWThOVGk4aUpyOFo5Uzc4NGdSRUYtU2o0VEswb2c5YnpISTBMUElNNURRVjFWX2lwWmVtVmw0OFM2VUE?oc=5",
+    "pubDate": "2026-07-02T03:25:45+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털경제뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "공무원이 만드는 AI 행정혁신…'AI 정부 실험실' 구축",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zcDAtX0xLYm9kakVFZTJmVVZfb01ybGZoS2pCSkV2S3VYSldld2Q5bDRkVlJCdjRMWUJNbUlTb0J3a1JkM1ZBTVVxNFloUnFIQkE?oc=5",
+    "pubDate": "2026-07-02T03:00:04+00:00",
+    "displayDate": "2026-07-02",
+    "source": "매일경제 마켓",
+    "lang": "ko"
+  },
+  {
+    "title": "공무원이 직접 AI에이전트 개발…'AI 정부 실험실' 시범운영",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MZUFXbDhvd2ZITXNVTzBxanp0Ym1xYVJSbkgyQU9Mc1BJS2RXLTdTYzBYemRtdXR3WmVFQUxQakljREtJUUJ3bjF4MHVzUlJjNm1YWkxjZTI4TVVFWDN6UG00UklsT05qd3N3ZHJRQ2tvTDRNZ2N3eg?oc=5",
+    "pubDate": "2026-07-02T03:00:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "네이트",
+    "lang": "ko"
+  },
+  {
+    "title": "반도체 연구에도 ‘AI 비서’…카이스트, HBM 설계 자동화 소개",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yaFM1Nm5iZUZIalpBc3M2MVkxaGkzMTlnak5MNU1kakJlV0RpZnl4RnpkdElpZ3ZOal9FakR1cVVrN245VDlJOEhja1BBcjN1?oc=5",
+    "pubDate": "2026-07-02T02:58:08+00:00",
+    "displayDate": "2026-07-02",
+    "source": "문화일보",
+    "lang": "ko"
+  },
+  {
+    "title": "LG전자의 AI 에이전트 기반 CAE DB 자동화 구축기",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iaEF1dmt3SnpHZ0dBTnU0MUNNMFFYeVdpNFRPZmRyMU1ONC03NE1qWGF6U2ZqQzVZb2J2MnFidzlHUlBDd2R5dFlJLV9qdw?oc=5",
+    "pubDate": "2026-07-02T02:43:33+00:00",
+    "displayDate": "2026-07-02",
+    "source": "바이라인네트워크",
+    "lang": "ko"
+  },
+  {
+    "title": "세일즈포스, AI 에이전트로 고객 서비스 혁신",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tekJNalZkUHJOdmhGLVhmeTM4RGFHZzl2MndEdjJ2RnZwSnFoOW10WUJUN3ZsYXZYcVRMajBLMWNHa20tN3UtdWNVMzR4UC0zRDBGRkI0RU1zM1o4R1RIUWdXZGp5bkZOQ2M3QtIBb0FVX3lxTFBkUXZyb2FxcU5TVy1uaGkwT2t1dU1UZ0dfTDlGR3VGSER1OWk4bDhEYXVVWUt5ZEdnSnl6anVqcEl2dkV1MUVmbWJIc1BZaFFBR19ZTGhvcktMdS02NkNKYzlGNXBCUTdOQ2M1ancwTQ?oc=5",
+    "pubDate": "2026-07-02T02:38:29+00:00",
+    "displayDate": "2026-07-02",
+    "source": "한스경제",
+    "lang": "ko"
+  },
+  {
+    "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 개발 착수 - 조선비즈",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkhzZzJ4VTlkbzg0azc5cDdlOXBkb1JNZ0MydjlISE9hdzdJVHJyeXpCVVBHRC1XbmEtSVpIVFpxdEVoUGtzTlhXYVh0RUdwOU9RVkg2OXNMOXh4NFVtTy1saDNXaWFMSFRJbkk1TkJvNk5kVzkyRGNGY3pVUU9vcFVB0gGWAUFVX3lxTE5nVWJKQUZLdW1fYmtFWk1ESTdLeDZWVmJMSUZTYVAtZjVKSFJ0QU5GOW9WX2QwSGV6Y1FmVjhudUdpQ0RKVllNaE4zZ0RyTEg1SXl6dEQ2a2NydXJXQnhnTFAtQ3NYdW1oYWRsX2ZIODh2T25wMXZTdU9CejgzUHdDN1dxcHNDaUo3dW1KR3duck9TY0FLUQ?oc=5",
+    "pubDate": "2026-07-02T02:27:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Chosunbiz",
+    "lang": "ko"
+  },
+  {
+    "title": "세일즈포스, 고객 서비스 AI ‘에이전트포스 헬프 에이전트’ 공개",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rZzBzT2tZenc0YUxTdDQxX21RM1BLeWFmTmdyMWtVanNqTExpQ3lKOG8tUXZiZHVjYjdmQlRvcld0ZlhnV2o4eDk3T0d2aVlaWDAzY1dHNjIzMWlNemg2T1cyMDNDNDczSGZN?oc=5",
+    "pubDate": "2026-07-02T02:26:48+00:00",
+    "displayDate": "2026-07-02",
+    "source": "더에이아이",
+    "lang": "ko"
+  },
+  {
+    "title": "“에이전트 맛집” 어디?… 네이버 “실행형” vs 카카오 “개인비서”",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uYU1pM3JjZ1R4UzFCRTVUUlQ5NFl4dE5uTmpIVHN6bC1oQ2VyYlhNcnR4QmJhak41V3dkZmxOUWZlcVVFT0hPdjZBNkV3X1d3b0FpSkhkZlRUalptOUkxWk5rSmFWQ2V1OW1TOA?oc=5",
+    "pubDate": "2026-07-02T02:17:47+00:00",
+    "displayDate": "2026-07-02",
+    "source": "이코노미톡뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "\"SaaS 성장 공식 깨진다\"…AI 에이전트, 362조원 시장 흔든다",
+    "link": "https://zdnet.co.kr/view/?no=20260702111617",
+    "pubDate": "2026-07-02T02:17:07+00:00",
+    "displayDate": "2026-07-02",
+    "source": "지디넷코리아",
+    "lang": "ko"
+  },
+  {
+    "title": "SK AX-한전 '발전·에너지 산업' AI 전환 나선다",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmWG9EV1JSNGdMMGtCUW8tdmlQVXFsMms3ajVXVG9NT1l1dlNuNG0tbnRIVDl3QlEwcS0tYXlyOVlOVXpNRW1vQjBEQzJ5ZnNHVGpLWDdZbWZlRlp0?oc=5",
+    "pubDate": "2026-07-02T02:08:01+00:00",
+    "displayDate": "2026-07-02",
+    "source": "뉴스;트리",
+    "lang": "ko"
+  },
+  {
+    "title": "AI 에이전트 신원관리 기술 표준, 한·미 공동개발 착수",
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165016",
+    "pubDate": "2026-07-02T02:02:29+00:00",
+    "displayDate": "2026-07-02",
+    "source": "IT조선",
+    "lang": "ko"
+  },
+  {
+    "title": "발전소 설계·운영에 AI 입힌다… SK AX·한국전력기술 ‘맞손’",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tM3pRLWMyUEZGbElIclFzdGVMaGNkcnFEMkJmNDVra201NGt5UVQyR1JoSFBJWFdGSVZYa29LczJkaEVxaXRfQ05QV1gwS0RBNFpoUTdFVXJoTVVZcGNfNUdQS2ZLZlo0VmtuVk15TTXSAXRBVV95cUxPaFkydmsycHN1ODNYLS02LXZ5aUkxWUpJSy1KU1FqeGZwMnZzYlMtS3ZxaEhHQkdCa0o5OXhLQ0NLRk1PNkRVR0cyeUVyeGNXLUNHbjlFS0ZVZDcwYUlaQjBNeU15TFE2NXd5ZXZVT3p2YUMyaQ?oc=5",
+    "pubDate": "2026-07-02T01:59:22+00:00",
+    "displayDate": "2026-07-02",
+    "source": "IT조선",
+    "lang": "ko"
+  },
+  {
+    "title": "세일즈포스, ‘에이전트포스 헬프 에이전트’ 공개…성과 기반 AI 고객 서비스 강화",
+    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403814",
+    "pubDate": "2026-07-02T01:50:12+00:00",
+    "displayDate": "2026-07-02",
+    "source": "테크월드",
+    "lang": "ko"
+  },
+  {
+    "title": "\"AI가 AI를 고용하는 시대 열린다\" OKX, AI 에이전트 마켓 출시",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xdUhOejNpTF9UcEg1VDFHRjZQd0dILWs2dlRjV3d4Uk1HRW1tU3RTcVRzRXUyM21RWnRmSmZIRDlEUGFfVC1SQTRGVVc1T1UxLWNkU1pPNmFDNkdELUtnX2oxSDFSSWc?oc=5",
+    "pubDate": "2026-07-02T01:47:09+00:00",
+    "displayDate": "2026-07-02",
+    "source": "비온미디어",
+    "lang": "ko"
+  },
+  {
+    "title": "트웰브랩스, 1500억원 규모 시리즈B 유치…영상 AI ‘에이전트화’ 전략 속도",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qdmk0dUlJQ3FHMTE1TFFVMUQyUlM0dEJIdWJDUnIwRmtCdjl5ZF9CNVdBcW5HenBYQ1BhTjY4dExrTW5QZ3RTNDdSUHpOWHc4OThSR2VRb3lWMVktWUlHN29rcm8?oc=5",
+    "pubDate": "2026-07-02T01:46:02+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털데일리",
+    "lang": "ko"
+  },
+  {
+    "title": "세일즈포스, 고객 서비스 AI 에이전트 공개",
+    "link": "https://www.fnnews.com/news/202607021032029552",
+    "pubDate": "2026-07-02T01:45:42+00:00",
+    "displayDate": "2026-07-02",
+    "source": "파이낸셜뉴스",
+    "lang": "ko"
+  },
+  {
+    "title": "SK AX, 발전·에너지 산업 AI 전환 이끈다…한국전력기술과 맞손",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tYmN0OUxyQm04ZUwwVXZOQTZad0xCVndOcm91V3l6ZVo5VjVsX0lSdTdHWDJzZXJsX3YzMkxVWGFsV0VGbzIyaU0zMmlOb2xEU2c5ZG53?oc=5",
+    "pubDate": "2026-07-02T01:39:47+00:00",
+    "displayDate": "2026-07-02",
+    "source": "지디넷코리아",
+    "lang": "ko"
+  },
+  {
+    "title": "KAIST 테라랩, 3일 HBM 설계·연구 업무 자동화 워크숍 개최",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4Um9RVUxpdTdHcXhUSnd2Zy1wRllpVzN2LVZfS3N3Nzk1VDhMTjJCTFA2RlNvTXJLRnF5MmtfbmZqeXE0bDZJLUVQcG5oUQ?oc=5",
+    "pubDate": "2026-07-02T01:33:47+00:00",
+    "displayDate": "2026-07-02",
+    "source": "전자신문",
+    "lang": "ko"
+  },
+  {
+    "title": "세일즈포스, ‘에이전트포스 헬프 에이전트’ 공개...성과 기반 과금 적용",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tOUFVTGZpY3IzQ21vaE9nSVJaR0p0bWxnZG5xbElaRUFwOEM5T2poSnV4ei1PdTBPVktMdWx6dG1kTTlXVExvdTdSN3RDaEZUdHRpS0tPZFdYZDNOVWoxQ1RzcXRMb0pCWDE4b25QeWU2Wms?oc=5",
+    "pubDate": "2026-07-02T01:26:21+00:00",
+    "displayDate": "2026-07-02",
+    "source": "디지털투데이",
+    "lang": "ko"
+  },
+  {
+    "title": "세일즈포스, ‘에이전트포스 헬프 에이전트’ 공개...“성과 기반 과금 모델로 AI 고객 서비스 혁신 효율성 제고”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40794",
+    "pubDate": "2026-07-02T01:09:28+00:00",
+    "displayDate": "2026-07-02",
+    "source": "인공지능신문",
+    "lang": "ko"
+  },
+  {
+    "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 개발",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pV1R4MDFzNFp3MmtMT01rOGlFc3JHTVE4MkNaQU1CM0ludHFTb25seExxODA5YWUyOGdCSE8yaWY3Tmo2eXROdUp3WVNLQQ?oc=5",
+    "pubDate": "2026-07-02T00:59:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "전자신문",
+    "lang": "ko"
+  },
+  {
     "title": "세일즈포스, ‘에이전트포스 헬프 에이전트’ 공개…AI 투자 효율성↑",
     "link": "https://www.it-b.co.kr/news/articleView.html?idxno=88927",
     "pubDate": "2026-07-02T00:55:24+00:00",
@@ -13,6 +741,14 @@
     "pubDate": "2026-07-02T00:45:00+00:00",
     "displayDate": "2026-07-02",
     "source": "주간현대",
+    "lang": "ko"
+  },
+  {
+    "title": "포스코DX, AX 해커톤·AC 아카데미 운영…'1인 N에이전트' 대비",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RMmp6MFd3V1dReXJ3Rk84b01mS0lEWXdadmVmYm9yQ2hXOTBBMUJOYTZmU1pfSnF5UHQwZjhMR1lhUHZyWktvTjFWaGVMYlU0U1ZoSWxsb0lJQWJvY29BRkJZWEVwWkRvWXVfNw?oc=5",
+    "pubDate": "2026-07-02T00:36:19+00:00",
+    "displayDate": "2026-07-02",
+    "source": "페로타임즈",
     "lang": "ko"
   },
   {
@@ -38,6 +774,14 @@
     "displayDate": "2026-07-02",
     "source": "지디넷코리아",
     "lang": "ko"
+  },
+  {
+    "title": "Agentic AI in Financial Services Market Forecast Points to $43.52 B by 2031 as Cloud Deployment & Banking Applications Gain Ground",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd015Nk90SEN2bzh3b3ZHOHl2MDlPekUxbTFrR1VnWEN5Z0xBaVhZTnI3dW12WHlsN0Q4U1I0dTdHSFpNZVh0YXhxVHFHWXVOTTE4WW5RYUJ6TGc1S1ZfYVEycEstX080SWtjRTJRSU1FdGc0YW4tTnNVSlNid3cxdURtbkMyYm5ITFNQR1dReGZvZ29UNXc0bWxxUWI2cFpoOHJSUmlnb2FiOVZuS1d2SVlMa2plckY0NWFvbktJVXo1WjFNME9IemMxN3RrUGtfVEt4NVN1RnA1NW9YcUtvMXlNcVFEcTZRTURjZ3FvdUpJSnNFeWh4YW54aFdwYnc?oc=5",
+    "pubDate": "2026-07-02T00:30:24+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Barchart.com",
+    "lang": "en"
   },
   {
     "title": "[종목분석] SK하이닉스 목표가 400만원…에이전트 AI 수혜",
@@ -94,6 +838,14 @@
     "displayDate": "2026-07-02",
     "source": "전남인터넷신문",
     "lang": "ko"
+  },
+  {
+    "title": "Capita launches Forward Deployed Orchestrator to turn agentic AI into value",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWF5SkxPUFcxLVNIcThkTFBSaGdaYkoyeGRoaGd0aDhJTTgzRk1Pbl94NGFTSTM2bVVBemtGQUJvRDdFLVM4ZGhBOWRZLXFXbDRoZEptYWdvdF9iU3JiVmh0UzM0NXJObDlBcFhyUUMxdzdOMmFHRUU0a1NnUE54a3I4SXRoU3ZucWg2QTNjU0w3WVRucE5xMk43d3RuMWo4cXowUGxLLWh3S0NhOTRyY0RKVUstd0ZLUFRpOVA5WjgzZjlQRVB0SA?oc=5",
+    "pubDate": "2026-07-02T00:00:00+00:00",
+    "displayDate": "2026-07-02",
+    "source": "Capita",
+    "lang": "en"
   },
   {
     "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 채택",
@@ -446,757 +1198,5 @@
     "displayDate": "2026-07-01",
     "source": "Mexico Business News",
     "lang": "en"
-  },
-  {
-    "title": "NeoXam Embraces Agentic A.I.",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fYUVxUUtZVnRWMlU0OFJjeGpoTl9NQlN1N1J1bGZ3eTNzQlo5dzRTWmhENnVyVjVWVVB4dEY4RGdMVlNzd2hXTU96MFVWNGZUZy1DblBOWEYzVGZLNHdKRHB3?oc=5",
-    "pubDate": "2026-07-01T14:37:49+00:00",
-    "displayDate": "2026-07-01",
-    "source": "FTF News",
-    "lang": "en"
-  },
-  {
-    "title": "BNB Chain Launches BNB Agent Studio: The AI Agent Infrastructure Behind Smart Money",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzBzbFlmMmdlTzgzSm0xWW1EaHhPZlZudzE5c3lQanhzSTdNSUl5SVBQNk1iY1B5VmVXUjVmWnVfU3ZtSG54R0lxeXRjbnBpNnJLbWdwWk5YcFp5M3JWY0VSaHl4X3A3ODA0VnpBNDF5ZFlhWnhlOG8tZ2U0Skg0N3JSRDlTb2NlcHB1bHVUcVR0anFYZ1RZRlFQcFhCZXNOT253eHNwdnNsVWts?oc=5",
-    "pubDate": "2026-07-01T14:32:46+00:00",
-    "displayDate": "2026-07-01",
-    "source": "CryptoPotato",
-    "lang": "en"
-  },
-  {
-    "title": "하나투어, ‘인센티브 견적 자동화’ AI 에이전트 도입",
-    "link": "https://www.traveldaily.co.kr/news/articleView.html?idxno=71407",
-    "pubDate": "2026-07-01T14:20:37+00:00",
-    "displayDate": "2026-07-01",
-    "source": "트래블데일리",
-    "lang": "ko"
-  },
-  {
-    "title": "The AI chatbot war is turning into an agent war with the release of Claude’s ‘most agentic Sonnet model yet’",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOemJGUzdZQ0s2bW1ZLTd1aVU2U0NDUlROcDE3dzVlV3hTSTh6eFlqdzQ1eFo5WUlWU1c0NHlGOGdrTHBGV3M0VklvSmZhQkk5SjUtNmhZZV9pckk2S2RSUTMyaWc4VWZDd241NEczWGwxSHk2Q0lIODQ3dlg5b21qZDk0bXIzd3gyMGRmb3VJM0tuZTlJbW90Z3h6TEhibTJHaDhfZElYbTdfMUxuS3NEV3RoOW5qLURBa2tjcGc2dWY1T2oxbFJVQ1lqcFJkWUZsTnVaWnlxWTVaVmZiYS1Sd250ajRyeWRnQ0FtcHVIb2JJbE1ZZGVKdHF4cmozbDNlNFE?oc=5",
-    "pubDate": "2026-07-01T14:03:09+00:00",
-    "displayDate": "2026-07-01",
-    "source": "TechRadar",
-    "lang": "en"
-  },
-  {
-    "title": "Distinguishing Agentic AI From AI Agents Matters",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFV4OGxZQ0F1LXZlVEozRHJWNE9FMXdTYjRNbFJGN3dybHpWT3lnbndqQTZGWU0wS0ZfVXc2NE1IeVROa2owYVFpd0d1U1lqYWZGanhmemtPQUR6ZzNWcTYydllval9BdnRDSExqZkpSa0c5ZzdOVEVqRk9sMWdDaFVlQmdlZTR3N0xuQ3pqWFdZSnlE?oc=5",
-    "pubDate": "2026-07-01T13:30:16+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Let's Data Science",
-    "lang": "en"
-  },
-  {
-    "title": "AI 에이전트 시대 이끌 차세대 인재 출범… AI·SW 마에스트로 17기 발대식 개최",
-    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tTk8ySmM1WjlQSmhCc29HLXdVTU1yNHEtZWxCclpReXh3M3doRUJYS1JsclpOUUhJQjVUazNjVHpGUnVwa2lB?oc=5",
-    "pubDate": "2026-07-01T13:28:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "pinenews.co.kr",
-    "lang": "ko"
-  },
-  {
-    "title": "“민원 의도 분석부터 복합 민원 한번에 지원”…연세대, AI 행정 서비스 공모전 우수상",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GNDNaZktZQUR1aWdVMExsenk0RXZvdlJoSVpHbXZUR1FUcS1yUWtFN0E3VHFMbV9FRjRRRU9jcDEtYzQyLUJKbTVCR1pJWVkwX0HSAVNBVV95cUxPcTdDVG9oQjc3WjlNNTg3T3VuS0NFbXN0Vm91X3BSRW5hQTdoZGI0dEJRZV9GZ2hvb0dkWGFVS3pMdHByTzAtem9jSjdMaVY4S3E0NA?oc=5",
-    "pubDate": "2026-07-01T13:15:24+00:00",
-    "displayDate": "2026-07-01",
-    "source": "서울경제",
-    "lang": "ko"
-  },
-  {
-    "title": "Exabeam Adds AI Agent Security Capabilities in Platform",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelZCMHFVY2l0VG40YW9fY0w0cGYyOVlhajgzd1JsNE0tcm96cVR3OC1XYktPR2l4cGQtMlpBSTVpTHRITnlRRnBSbmxjcEY4SThwUlZicnlVQ0NxZEJCek5MTTlEYmpZdEJ4dGlIeGNKNGZqUHBNSVRwTlpVcDZnZHBkUWl2cEZleEhmUEwyVlhhZjFmMUg5Y3Q3RQ?oc=5",
-    "pubDate": "2026-07-01T13:10:14+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Channel Insider",
-    "lang": "en"
-  },
-  {
-    "title": "Google’s Gemini Spark AI Agent is Now Available on macOS",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjBDSk1nNkZ5MUNqR1E4NkF1QWtJdGRyaDJjVGJ0V3JVbkJzVU1sR2d6NEhJLWZrMkJrdVBZcG15VEVWMWFvOUdQdTBjS2MzdlNyZU9fNzFpSjNfd0RZelE4RkFRck10VG03cl90TzlqN0ZGSDZybzczWnd0LU5ZUUFvbDVfUjNEVmFqaldWMlM0RWx2TXc?oc=5",
-    "pubDate": "2026-07-01T13:10:07+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Thurrott.com",
-    "lang": "en"
-  },
-  {
-    "title": "Exabeam Expands AI Agent Detection and Adds Claude Support",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVpOWDFwc2ZVajUzTFVTY2cyY1lCb1hkTkItWE9ud2xSVldjbmZabzZfSnhhTm5MeGtBSWhyTmhnRXhQblZPT1dFeDFUTllFYUtoLUY0QVY5UDJ1cm9OZTJ4dHlmUTNENUlxUTA4TkpJbmRkNzdrdU9QTDZNV0pJWlV1ME8wYUt2MjFsMUxPSXJvR3JpSWtObGxLVkRDWDVjeFE?oc=5",
-    "pubDate": "2026-07-01T13:00:29+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Let's Data Science",
-    "lang": "en"
-  },
-  {
-    "title": "Forward AI Wins Two Cybersecurity Awards for Bringing Certainty to Agentic AI",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2Nid1l1OE9tYlY0ZjA3MzVvejhFWllmREVVeE56UHN1OWZSUnY4bnB0S0NpSUdMTzZvT09fRHdFZEVIdWRWM0llOGw2RTdDZUJYZ2xScTdrM0YtZ0FqbVEwdFNhWHJkcTZKaGhBcWUyQ0hpeGwtbE9mdk03Yk5LN2FUdk5tUE5sMFRSc3lIMU1LZ0pkVHgyTExpTnBMdw?oc=5",
-    "pubDate": "2026-07-01T13:00:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Yahoo Finance",
-    "lang": "en"
-  },
-  {
-    "title": "Wuhan prepares Rp2.4 trillion, wants to be China's AI agent city",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RcVl4STdmRVJGRVpmLTkwUTcwUlpKaHAxZ1dRZ0h0bFI4Y3p5NmNWa2lCajJBLUpiVjhES3dOc19ianVORFAxMDZpQdIBQkFVX3lxTFBmRmNEVVlCUGEyanFtanMyUm1tRFBHY2ZRNGI5WEtlWUs1VXZmWm93RHUxdVFaLUV3cEdrbklXcFhSdw?oc=5",
-    "pubDate": "2026-07-01T12:56:37+00:00",
-    "displayDate": "2026-07-01",
-    "source": "VOI.ID",
-    "lang": "en"
-  },
-  {
-    "title": "Google Android Halo Brings AI Agent Tracking To Status Bar",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UckdjSTh2SUI3VWtJTm5QZTBJZlREcXZJSnZHMkNGRTlqZlZfZ21PMDRyMkctb1QxYVlIU3NGSGVGV1hrZlg2eVZMaWxscWd1bXh6dnRLVzBSVk5iY3dPRU5aSnE?oc=5",
-    "pubDate": "2026-07-01T12:45:24+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Ubergizmo",
-    "lang": "en"
-  },
-  {
-    "title": "The agentic AI rollout has a contradiction at its core: the same software that vendors call a colleague is, in controlled studies, making the humans around it measurably worse at their jobs",
-    "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSWF3NFU0RVZuUDhIMDZFNTNKZ0FCWUpSX1VTNmp2Mjl3M2s4V2VIYkQxQzdycmRublkxX3ctb1d2Y1BkTG5EQ1o1Q2VCS2RtZnB5cmhEYTZJY29EcTFmUk1wZU0zOF9nRzJkQkFnUjhWZ2hyVzA2STA5RDhTRlA5eUU1X3JKTmIxYXV1dUVING9TRVpBclhSYWpNX0VrUDJWVTZuNkJMSmk2eHVST3ByUHlRS3pLZmxWOFM5N0NCMkg1RmpDbWxhSW50YVlZX3JoUElSSWlFZXZ6T2RzaGE1Wk93VjJFRThvZ0t6NEVSenFkdlFsM19tZjdnTGJnOFd5MDIxQkUyREhYTXQxSFh4TElxRkFrMzhZZ0Y0R0ZQMUg3b3JNMGotc0ZfaFFwZ0FPSDh2TUVJWHJaSzNmZlJn?oc=5",
-    "pubDate": "2026-07-01T12:24:07+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Silicon Canals",
-    "lang": "en"
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5 for cheaper AI agent tasks",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWh4bWlxc0NOalloZEtBdzIzZ0NCcjBNdnNDa1hJQUdkX0NhenprMlQ4REFWUk5vaXZTcXdEbmhBbDdLVDJfYmlfTlg5bjl0MFg3MGRiX3dYM0dkSjNrZ1dzbW1YSkMtUXBiMF90WEI3N0p3a1hSajZOX0FON0pjQ1Z0cWRSYlN1MGRHQ180Uld4UnY4aEE?oc=5",
-    "pubDate": "2026-07-01T12:06:31+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Yahoo Tech",
-    "lang": "en"
-  },
-  {
-    "title": "Build and Run Your Own AI Agent in the Cloud",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMldnaEVTc09xZGM0RGJ3YWhmQUNKWThCdkRnSER5T196YmdJTXh6SGF3YVBDN0JHU2ZBTml1M1dJLTJjT3BEaUdjdFNNSHRHa2RRTnFxblp3Wjduc2dkRzZrRWdHbkhKOFBXbmpOTWprNTRYSExtLVpTS3Rycy0tN1B3?oc=5",
-    "pubDate": "2026-07-01T12:00:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Towards Data Science",
-    "lang": "en"
-  },
-  {
-    "title": "Sondera Open Sources AI Agent Policy Enforcement Harness",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjUtZUhJSEZOMGY5ZWNlYkdYbWVUOEl4dUE0QWJHTFNybVZGYkd2YjR1T05KZExQM2JkY19oMGR0ZFFOYzQ1UFYxU1l5SUF6bE45Mm5CWkZqVjh1VV8xYnNObEpIZ3JRU1FWaUdBS0N3UGhkNHB1SUdoU2UzZXZ3T19UaFQ1UGJpR1AzR05VSFpKVGJldC1hc3JqamY?oc=5",
-    "pubDate": "2026-07-01T11:55:52+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Open Source For You",
-    "lang": "en"
-  },
-  {
-    "title": "CRM Stock Lost Over 25% In June – But This Analyst Says AI ‘Hallucination’ Is Creating A Buying Opportunity",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPclhTT1dxVkhINHFxYllCYlJNS0VXVzZ4MWJGVGY0eFpxLU9MSU5JU2ZONXhxeWJ0bmtDSTZzWExhSzN1c29RS2Q0TUw3dGh5RVc3ZHdzLVpPT2g2eDVQUTY3VkowLTAzYjhQSVp2dnJkS3R5a1l1N0NyTjFkRFFFNngxdTBXYnZ3QjJzMEhYTnY5SWgwRGtnTTRFQW9JTEhpajhSOG5RVEZERmRRUHNuNDB0WC1NSGpSaVYyTHpmZHE3aUNrbXlEU0t3VGZtNTIxeGFaQnZsUkRsbXc1QTQ3Vk5Nb0pQRGFMa2dmeFlfSzRVQ2FLZlE?oc=5",
-    "pubDate": "2026-07-01T11:53:59+00:00",
-    "displayDate": "2026-07-01",
-    "source": "TradingView",
-    "lang": "en"
-  },
-  {
-    "title": "Automating the Cyber Kill Chain With Agentic AI",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVZTYnlZYmxJdzg1dC1SNFhVaDRIR0ZFWUpsYV9lS283UmpUN1ZBWFZOcmN3TkVYZWNmcWRDRkR1NWsyZ1pWYldpTzRDWFZJNGcxUThabnhMV0xsNGJzOUppX1Q3SnN1T0lTekNTb2d2OVB4ZXNqT0FXOGxvdVQ5VWlXbDg0T0ZNRHI0Tw?oc=5",
-    "pubDate": "2026-07-01T11:53:49+00:00",
-    "displayDate": "2026-07-01",
-    "source": "AFCEA International",
-    "lang": "en"
-  },
-  {
-    "title": "앤트로픽, 과학자 전용 AI 연구 플랫폼 '클로드 사이언스' 공개… \"논문 작성 기간 수년에서 수개월로 단축\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdEl6LW5MendMMl9aeGpZaEhUaDdsckNzUThkRm12LVNBS0RHQU1MdU1DLVBCekdwTUJ4amxGekFweHdmX0RQNF9CVWJ3UkVpNnZDOTZoeHJrZTFKSGlfd3BoNGNaNzg?oc=5",
-    "pubDate": "2026-07-01T11:52:46+00:00",
-    "displayDate": "2026-07-01",
-    "source": "인공지능신문",
-    "lang": "ko"
-  },
-  {
-    "title": "Industry execs talk Agentic AI, new travellers and API Boom at RateHawk Futurecast",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaHFqcmxadVVSZV9UendSQmktSFVNakRFTFQ0bGt2VnlQTU1vc1M5UXdYOWE4dTRKbkdhbnRIZHFZOVVFSzRRZzNJNGlZaUhhbFNnR2JXLXlNa1BfN3JTM2w1djNuLUh6d3JOYU4zZjlpaWh4U1pTdnZPV0JXNWtyNVp0cnhqRXhoWDljY3M3X3FYZHVVZTZNaGpZVUhMVkxDZkp2LUluSFJnYVEyVzZYc3VfUXBicDlkVERLa0ZtS2ZUVHQwRm9vQ3pIMDZGVHZLdnhBVG9FYW1LN2xrQzlfNQ?oc=5",
-    "pubDate": "2026-07-01T11:49:27+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Travolution",
-    "lang": "en"
-  },
-  {
-    "title": "Cryptopolitan Newsletter Poll: Nearly 70% of Crypto Investors Would Let an AI Agent Control Their Wallet With Conditions",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUXdpUTF1bC01UnJ3dUxpTElmYzk2VU9yYjExZjRaTGhrX3hSdXYtajFPLU93TjBBcW54WksxU0VIQjdTdXgwOHJ6Nmo0MUZKQVl5N1ZNcWlOZTlUelZzWUlVR3p1bWtnSmtNN001U0p5c1ZEQnRBaS1iR0hlR2RMWUFNOWdTcUJvM2w4RkFfVVlKQzdiUk9obWd1TnFtX1JQS2lZTWo3cDRqcjdxRmRqYjY4anFrWTJjOGVmcEFSeGRMaDZwd2ZMMUtRcEYyNkJ3Y2VGcjFNVWNlS2NLWHFRRkdKbWNOUTFqMVRWMjZ2RjM2QTJiNndmQw?oc=5",
-    "pubDate": "2026-07-01T11:32:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "EIN Presswire",
-    "lang": "en"
-  },
-  {
-    "title": "Agentic AI: The AI-Powered Defense Against AI-Led Attack",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGN3cmFYX2lXQ0J5SERURWM5bHRGNVE4NGhoMGkwWXpEejQxa1JFOHZOME5fdTJPT0o3Q2pOUXZkQlZLZ2VNVFQ5Z2V0ajZXUXJTRWlublgteUNkb1JOcXhkX2VaMkdNY2JMdWdyZVlIaVladkRjOVpfZHBEdWtnMWkxR2tVd0E?oc=5",
-    "pubDate": "2026-07-01T11:07:32+00:00",
-    "displayDate": "2026-07-01",
-    "source": "CXOToday.com",
-    "lang": "en"
-  },
-  {
-    "title": "AI’s usefulness depends on whether we can trust it to act alone",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU9hMzFWUW1TS2psdUFWZzVTNGUwLVVzU05NWWVkcV84ZXptUEEyaFlIcThyUFdwZUcyMm1XdHRuZmJCWmV0QkhqOG5CNHZ5OUt1emQ1a3IydnNUcVRkdWh6RXhkZU1EZ1Uzb1BwTmUxVmdXM18zcFdOSi1jY0xKa3lhelVpN1Fy?oc=5",
-    "pubDate": "2026-07-01T11:00:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "The Hill",
-    "lang": "en"
-  },
-  {
-    "title": "Netzilo Brings AI Agent Governance to Amazon Bedrock AgentCore",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjZDU1p6QS13TkxpbThKb2JscXMtRXh0Mm9PTUhORWZCM3BzRUs5SlRUc0NmZ1FuYkJmTEwxZjFKRFlDcnNwX0pkdXA0ay1iMnQwQXd4Tm9kMlFvTXdQZkdWVVpocmNyekVEX1YzREJZR2h4cTBydHBwbWhEbWlqQmRpMGxUNlB4YXNPQzc1UmhGMV9ZMDgtV3Z3MnBta0JENzZ2R0ZYc0Y4WUJleWVkMzJ0MjNMMW9lbXc?oc=5",
-    "pubDate": "2026-07-01T11:00:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "PR Newswire",
-    "lang": "en"
-  },
-  {
-    "title": "“사람·머신·에이전트 연결해야 권한이 보인다”…세일포인트 CTO의 진단",
-    "link": "https://byline.network/2026/07/1-1453/",
-    "pubDate": "2026-07-01T10:59:09+00:00",
-    "displayDate": "2026-07-01",
-    "source": "바이라인네트워크",
-    "lang": "ko"
-  },
-  {
-    "title": "“사람·머신·에이전트 연결해야 권한 보인다”…세일포인트 CTO의 진단",
-    "link": "https://byline.network/2026/07/1-1453/",
-    "pubDate": "2026-07-01T10:59:09+00:00",
-    "displayDate": "2026-07-01",
-    "source": "바이라인네트워크",
-    "lang": "ko"
-  },
-  {
-    "title": "Agentic AI may put $234 bn of SaaS spending at risk by 2030: Gartner",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNemFNV1M1SWhXdEl0cUY3R3U0cl9yS1UzdFR5M25GOF9nWDMzVWV2dWFzMURfSzE1YnBFMTVpb0VaajViQ2Z5cjhsNTRTVUVnMERxUFJUUlRfN0ZuU3NFZVBCVThwUnpRcm9YUnBHajA2TE5lRThqM0dUT3dTSHd3RDBmMVV1QlBTYXlMNER0MVdXVzZRZDZQbFZ2STRNcjl5c2trd2x5WFNQUmZQVHpPVjFGRGZ3NVBxQkN4TUp6VUZNcWNJcTFkUU9Fd3lXQ3pBWXBwT2dXTzNGcGpzNEdEUmxKSzVwQi1xbW1vc2ZLX0lVTUpnTFkwMUkxeUQteTU2bkM1YdIBigJBVV95cUxQeVJ2dkd0T050aUtBS2k2SU5QSGI2aER3RUJ0QmNIT1RlMjNCcTdEbDgzY1ppR2VtSFVMU01Mem4zaTEwUDJ4b1V0OHZoVHM5bkw4U3FMQmY2WDF3dzVNOFlXQTRqMUktaE9RV05ycjAydlRDWkQyYVJTdTBUS3FINkgtR241MGRlaVBLcnRlY0dzZWh2WHQyWG9kbDNxcm9zaTNFMHU1QWliblRVYWc2NDZUYXdtNXd0cDFraTV3cE1jRzF4bWZrQTZFWlVfaTJwVktiVnZ4MktSZFJGU1pTOVhkeVJhLUV2TmpOVWFCbE0yUDhYbEw5N2ZLcHNXNnZKejE0S3BpVS0yQQ?oc=5",
-    "pubDate": "2026-07-01T10:58:28+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Business Standard",
-    "lang": "en"
-  },
-  {
-    "title": "경복대, 고객응대 자동화 AI 에이전트 서비스 개발 프로젝트 진행",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZRUtwRkZMR3pVLXh4TDdJSldrRE94MnYwRTY5T19TeGRwZDZXbVNJaGdkYm95STFVMEhFMUNqSDg2RFdpejlQMlYta3ZBTlhTVkNBeXp0WGFhSm9sQjJBaVFCWkhDVURULW1VYllR?oc=5",
-    "pubDate": "2026-07-01T10:24:45+00:00",
-    "displayDate": "2026-07-01",
-    "source": "gukjenews.com",
-    "lang": "ko"
-  },
-  {
-    "title": "Accenture (ACN), ServiceNow (NOW) Launch Joint Initiative to Modernize Enterprise Risk Management With Agentic AI",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3NwNWkwQS1LY0FEbWZrTElnOFpuREd5SURXNE11djllRXZrbV9jZXVrVE9xcm5LcE05dmJsMTQ3WWVqaVBadjhPXzlua0JyQmtXVHpZQkpMOVB1M1lyOHFVUUN6ak5KZjhheDlXRE9mZkVEVzNJWDFUUzMwUUVoUVBOUDlMTkoyb3NDc1VveGFDSEViZ0NkMWVIWHlkb25C?oc=5",
-    "pubDate": "2026-07-01T10:23:31+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Yahoo Finance",
-    "lang": "en"
-  },
-  {
-    "title": "Bank of England reviews AI rules for agentic AI in finance",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWEzYlVJSkRJTFRlZDFBbkhBS0RzdVpOUFJNeDg5aE1fbHZLZU5xd3RUaURQRkRncS1VY0MzOVpOcjZTZ05TTnFYejRJOWZZSm1zLUhtYzR3aUJCRG5BTmJhTXNWdndXZTlUMmM5bFYxUU1lVHVpalpBNGN3QkdQZzMxSi0wNGZYTmI1b01jQ3VkWEp3?oc=5",
-    "pubDate": "2026-07-01T10:02:47+00:00",
-    "displayDate": "2026-07-01",
-    "source": "AI News",
-    "lang": "en"
-  },
-  {
-    "title": "7 ways to ensure effective digital leadership in the age of agentic AI",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOURJaE1wZVFLVDhMV0syR01yOXdkNkc3LTl5WFF4TFdlMEJEdmpSLXJGQWJjQW5FbEotdnI3RTE1dmxieTFadURTWVBWZkJWRzBUQy1WajMtVVpuWHFNaEhscnhkYjRmSUw1YVhoNFl1dW0xSmJBSDFpaVVvTXdMZ1RoY2RIYW5PLV9udlg1WTdpOWpHMVJuTlJKMDRPQU9lLXNvR0VxeWJJclN5QTRZOQ?oc=5",
-    "pubDate": "2026-07-01T10:02:46+00:00",
-    "displayDate": "2026-07-01",
-    "source": "cio.com",
-    "lang": "en"
-  },
-  {
-    "title": "Bank of England reviews rules for agentic AI risks",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3VvUEY4YThreDdtai04QXozRFZFdlRxaTVYTWJ2VVpvbjdZaElmMUNjeG4tWkx5TlQ3Ty1qOGRaMWdnSXM0b1lIU1EzVlVRN3R2QVdFR3VOekJPM3lmZGs1eE9ITFlvYl9SYVNoSHk3c0padUpZSXFlUmJQbF9rX0FHNXVkU1EzWDBRZ3I3eFNmUHpGQk9v?oc=5",
-    "pubDate": "2026-07-01T10:00:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Let's Data Science",
-    "lang": "en"
-  },
-  {
-    "title": "An AI agent was named after this 57-year-old Belgian credit analyst. Is he philosophical about it?",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZmstU202MkF1eEt3OWJXc1NtV1lOdTAwWGNFc3RoZnVtQkQzT18zdV9KemhqcUNPOGVjT0pTWXRPajJjZjM1ZHA5c2Q0V0FuVV9n?oc=5",
-    "pubDate": "2026-07-01T09:41:57+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Sifted",
-    "lang": "en"
-  },
-  {
-    "title": "KOLON BENIT to Introduce Nutanix Agentic AI Full-Stack Platform in South Korea",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xdUtVRGFMVXkxLUJoUkJOWEg5N29JUGJlS01UT21wLVpBQzhaVVRmVndpVk5NNl9CQk52X3dvTGhiWEJSTG5tQzZqa3oza21Va3VibTFGdFB5N0RwRFdETEt6UC1SNm8?oc=5",
-    "pubDate": "2026-07-01T09:31:54+00:00",
-    "displayDate": "2026-07-01",
-    "source": "thelec.net",
-    "lang": "en"
-  },
-  {
-    "title": "Google has released Gemini Spark, a revolutionary AI agent for Mac",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2tvQUdNTGJwLWxQd3lfTHI0dlBqUDRRMkl4Umo1WjVNOWg5Zm5tSFpibnRMN2dlN0w5c0pmUDd2VXpNdlROY3J1RnZRSjdldV9kOU9lUGp6Q1prYkVYX3luQ296R09sUTJWVXAxUHRZTU5RS29taTRWSVN5THFmTThxVmpOcHBFb0ZNeG51cw?oc=5",
-    "pubDate": "2026-07-01T09:04:14+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Root-Nation.com",
-    "lang": "en"
-  },
-  {
-    "title": "AX 열풍에 보안 점검 수요 급증…AI 에이전트가 모의해킹 수행",
-    "link": "https://kidd.co.kr/news/246562",
-    "pubDate": "2026-07-01T08:57:44+00:00",
-    "displayDate": "2026-07-01",
-    "source": "산업일보",
-    "lang": "ko"
-  },
-  {
-    "title": "Bank of England floats 'kill switch' for agentic AI trading",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVko3Q3FIeExSMXEyRHk2NU1zOG9tb1FrYkhUS3FEVnZfZm5YUGhVdG4wNDRvdEdBdmIzS0t6c2hfVmQ4bWV2eURmUTEwOHRXOXFTblZQR3RPSG45QTJRajcyMHFSbFktNURXcHc2ZWxyQXpJUExOZGp6X2RaSXEzNm5JN3RfQQ?oc=5",
-    "pubDate": "2026-07-01T08:46:29+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Resultsense",
-    "lang": "en"
-  },
-  {
-    "title": "[기고] 에이전트AI 시대, 관제탑이 핵심이다",
-    "link": "https://v.daum.net/v/20260701173305687",
-    "pubDate": "2026-07-01T08:33:05+00:00",
-    "displayDate": "2026-07-01",
-    "source": "v.daum.net",
-    "lang": "ko"
-  },
-  {
-    "title": "How Agentic AI Is Growing — and how enterprises can make the best of it",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOVdkN1k5ekMwUVhHZVBOMFlaWWgzanB4MFgzMThqMHl5VS1yMDVTT1pjYnFsZ2lvdzdFUHQxRGl2X0ktMXp5VTBDVnktWEVhWGFaNkpwVFpLQ1o3WUlOcFRhTVBSbXpyMWt3QU9BbUtaRVlDQ0twMWdSZlI3aXNfYndrTS1xa2JTWElnZ0xJWDZBeWdSU3o5V0tHSU94bHRzSi16UThGNFdBNWltUThNX1Z1S09vemZrZHZEQ1h2eDhuN3BZcHdfWGx0eTdfQTlPdHhhWtIB2gFBVV95cUxNMjNTRVB6X3VVVy1PcEhvaWdWZW1taFlvY25QQ29JNlAtZ3pmV2g1Z3ZLY0lTM214UWdWa1FDLTg4QXB5d1lRTkpIeEx3c05maWJJMlFMb0c1eEpZT0V1QV9jajBadEN3OU5TbGhPcUZ2eHlZcldFYUhjXzEwY2N2OWRUV1pTNEN2cUZEZ0YtUlRtT250cUpVRDEwQXEwZFZ5U2RYYXh5S0pqRFoxRi1GdXhVcXprMlFxMVpydzdFWWd2b0tPVjd5bzN4OHZmMlROeHk2WkJIZm5YZw?oc=5",
-    "pubDate": "2026-07-01T08:14:13+00:00",
-    "displayDate": "2026-07-01",
-    "source": "The Economic Times",
-    "lang": "en"
-  },
-  {
-    "title": "\"운동화 추천해줘\" 하면 AI가 대신 쇼핑",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NQW5BYU5qQ3JwSFNVU1lfTWFWN3hnTGdVMVFuWHY4cGFRc25CcFRKbV9NTVFBN1YyYUtsOHhhZ1AzZWZSeTdfc1AyaEY3WTItNHVIak9n?oc=5",
-    "pubDate": "2026-07-01T08:07:11+00:00",
-    "displayDate": "2026-07-01",
-    "source": "매일경제",
-    "lang": "ko"
-  },
-  {
-    "title": "Capita Launches Forward Deployed Orchestrator to Help Clients Turn Agentic AI into Measurable Operational Value",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ1NpQ0dyWER2a1lndkU0bWhnNk8tRVVCYzVmd2hRS0k5Xzl1Z2xybU9RY180b2FTcVo5UkhyNE1tU0poSjdScFZmRDVBZ19xMlRsS3BqYTlLNGRUWWxDUlBLRHBzTVlBQ042VHJoODFXOFUwQkNBZDJKeVhMcjY4TDR5Z09OZmRhd2VVa0dPdjhjM0Z1NWhNTFNmd0l3UEZtRG9ZZVhBYWFuVWJreW11RUYwRldnMUd6MFR0a2lCSDhDMzdUZlp5MjFpeXFtOGUySG1PY0JSV0dwLUdLeVdWUWdmNXUtRjlH?oc=5",
-    "pubDate": "2026-07-01T08:05:27+00:00",
-    "displayDate": "2026-07-01",
-    "source": "marketscreener.com",
-    "lang": "en"
-  },
-  {
-    "title": "“집들이 음식 추천해줘” 한마디에 척척⋯ 네이버 AI 쇼핑 본격화",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YaXdwUmlfOVU1a2ZUMWNIZHlSY3hCakN5UnFxeDl0X2VtdFk0YU0telQ2RUJiWjE3UVlZcFZCYlBKRXcwWHpaNEpoN2tkMnhjUXkwZnh2SnhEQQ?oc=5",
-    "pubDate": "2026-07-01T08:02:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "브릿지경제",
-    "lang": "ko"
-  },
-  {
-    "title": "포스코DX, ‘1인 N에이전트 시대’ 대비한다… 직원 주도 AX 혁신 가속화",
-    "link": "https://newsroom.posco.com/kr/%ED%8F%AC%EC%8A%A4%EC%BD%94dx-1%EC%9D%B8-n%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EB%8C%80%EB%B9%84%ED%95%9C%EB%8B%A4-%EC%A7%81%EC%9B%90-%EC%A3%BC%EB%8F%84/",
-    "pubDate": "2026-07-01T07:55:45+00:00",
-    "displayDate": "2026-07-01",
-    "source": "포스코그룹 뉴스룸",
-    "lang": "ko"
-  },
-  {
-    "title": "[ISEC 2026 미리보기] 이스트시큐리티, 에이전틱 AI·제로트러스트 기반 차세대 보안 플랫폼 대거 공개",
-    "link": "http://m.boannews.com/html/detail.html?idx=144443&page=1&kind=3",
-    "pubDate": "2026-07-01T07:54:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "보안뉴스",
-    "lang": "ko"
-  },
-  {
-    "title": "뱅크웨어글로벌, 금융권 AI 보안 게이트웨이 'BX 가드 브릿지' 출시",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5eGNlalBFb01wcWMtNElzRlZmN2lpTUxDUVV4cUgxa3g4ZC11QUo4NlFaYVpNcXdQNGE4eFh6VllSbDd0QTh5Y0ROaE0zbVpKNjB4SEZELXZJQ3d4NmJOSGtxSGZ4M0VPQUE?oc=5",
-    "pubDate": "2026-07-01T07:37:34+00:00",
-    "displayDate": "2026-07-01",
-    "source": "더스탁(The Stock)",
-    "lang": "ko"
-  },
-  {
-    "title": "AI 에이전트가 직접 결제하는 시대 오나…Kite AI가 노리는 '결제 인프라' 시장",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EU0trMlcyXzlGdTBETG1kZlVMUDV3dERKNGVQOFNqd09VZXl3UFFaZUdVQ2JFMW9DZDV0WkROTTgtNEpnNnFCZUZHZElNZUZmMUQw?oc=5",
-    "pubDate": "2026-07-01T07:35:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "네이트",
-    "lang": "ko"
-  },
-  {
-    "title": "Google agents-cli: One Command Adds AI Agent Lifecycle Skills to Claude Code and Codex",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0FiTmVlWnNaTGgwYnFmcndpMmhuU1MxMDJaRng0aEtoVk5QRmJVYWNiZlZqNlFqb29ZRG5sY0wya1dPY0NLZkVINVN1Y1l0NU5FSElhZGdDdVpDUmlxNG9RMW5pNHEyZ2JEV09nN19pWkFmZkhiaGdudVFxb3lWZWRKb3BLT09OSFljQlJnNE5YVkF6SVNNWU1jN3NId3FhUHNCLVViamw3QXd5X3RRRXpsTFBuZGtHaXd2Zk95VVNIczF5S3ZzOURwRUhkdw?oc=5",
-    "pubDate": "2026-07-01T07:15:26+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Tech Times",
-    "lang": "en"
-  },
-  {
-    "title": "오픈클로, iOS·안드로이드 앱 출시…'주머니 속 AI 에이전트' 시대",
-    "link": "https://zdnet.co.kr/view/?no=20260701161409",
-    "pubDate": "2026-07-01T07:14:09+00:00",
-    "displayDate": "2026-07-01",
-    "source": "지디넷코리아",
-    "lang": "ko"
-  },
-  {
-    "title": "갤럭시아머니트리, AAIF·x402 재단 가입…AI 에이전트 결제 시장 공략",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82QnN0Y2Vkd2FfMjNldDRWM3RKYjh4dENvamNqbXF0X25TYXMxbTF1MkxmaFJZSDZBS2ZSckxPNE1Bd0ZRNXdycDhNTThqeWhMTkVhTG95dkNfWXEzYjh3SGZjdXA4RE9WdHc?oc=5",
-    "pubDate": "2026-07-01T07:09:14+00:00",
-    "displayDate": "2026-07-01",
-    "source": "컨슈머타임스",
-    "lang": "ko"
-  },
-  {
-    "title": "NiCE Extends Its AI-Powered Customer Experience Solution to AWS European Sovereign Cloud, Advancing Trusted Agentic AI Across Regulated Markets",
-    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMnMyUFVjOTg2N1hndzVSd2tUbUdVT1p2V1Izc25EZDVaVnFCZGEtUmI3QXR1SEVJS0VwalpLT2ZENVY2Z1Z1cG5RWDR6Tlk4RXp0ZW9BQUFvanlPem9SZjhoR3VjOFctdHh4SmdhV0xWTFR0eTR0QzFfdFh2RV9yUzAySks1bXhlc3ZpT2JJNmFzdkZOdXRSanM0TnpIeGNCWnY3TW42UGJwVHlQcHVyYnVpTHQ3Q25MV0J0M2l1U3NZZlZ3SjFRdU1kRVFpSEhjMjd0b3U1a0dsSWhnSVBIb3pUdF8xaFBuWklwX3p3LS1vbXFTRWRnWnJSNlBWNmtRUHNHaDNVVzdIMm8zNFFxRXhMZjlERnRNblVRUzBfUWcwRldETVE?oc=5",
-    "pubDate": "2026-07-01T07:05:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Business Wire",
-    "lang": "en"
-  },
-  {
-    "title": "㈜하나투어, 인센티브 여행 견적 업무 자동화 ‘AI 에이전트’ 도입",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CdnFybTNmQmxmbTBpeWhmUUhyNmhXdktwRTZUSnJmZUUySHpEdmk4NkU4VlpZb2FIQTFxWjNLMUZFcUkyTW5QNWo0emJrTUU2SERiZzA1anc4U3BPV2hQSW1Jd3JVbGc?oc=5",
-    "pubDate": "2026-07-01T07:04:37+00:00",
-    "displayDate": "2026-07-01",
-    "source": "시사캐스트",
-    "lang": "ko"
-  },
-  {
-    "title": "Capita launches Forward Deployed Orchestrator™ to help clients turn agentic AI into measurable operational value",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNGJKckx6VGtJcFdWdS1NVDRhTFZHUXJkbzlQMlBxRGFWZjl3VGhnUEVVVFNZM3FwQmZhWjF5cENYSlBOVnpsS2FqMkoxMUpvSm5rZ3ZSd3ExUHR0dG13SzgtYWdhTGhYOXJqS1d5Yjd2MmhRVWRaUHlGUUppdGtxYTVoU2d3MngwMmdvMzB4RXdhS3YzUXBEcU9GY1BhcDBrX3NBUEtyY2ZETzdPRnh1QlBoU1doODRjaDJjMTZEMzU3TU5LbjZrQzhfMnR3VFFjc3JBU1FjcHRXSDR6c1VNM2FuWDdvMDZkU013YjVucEJLelJxdGc?oc=5",
-    "pubDate": "2026-07-01T07:01:03+00:00",
-    "displayDate": "2026-07-01",
-    "source": "PA Media",
-    "lang": "en"
-  },
-  {
-    "title": "\"10초 안에 뚝딱\" 네이버 'AI 쇼핑 에이전트', 관심 상품 직접 검색해봤더니…",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264727",
-    "pubDate": "2026-07-01T07:00:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "파이낸셜포스트",
-    "lang": "ko"
-  },
-  {
-    "title": "하나투어, 인센티브 견적 자동화 AI 에이전트 도입",
-    "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=359625",
-    "pubDate": "2026-07-01T06:57:08+00:00",
-    "displayDate": "2026-07-01",
-    "source": "중소기업신문",
-    "lang": "ko"
-  },
-  {
-    "title": "KRG, '2026 대한민국 인공지능 산업 백서' 발간",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fd1VvWnJvazN2TXE5YVpfekd4a05lamlBaGpneTdIeFpkQWhDQUtRNS0ySWlENjIzb2lCM3VPcXNhdDhVR0luV2Z2aWkzUTUwaGdESlln?oc=5",
-    "pubDate": "2026-07-01T06:51:06+00:00",
-    "displayDate": "2026-07-01",
-    "source": "지디넷코리아",
-    "lang": "ko"
-  },
-  {
-    "title": "경복대 소프트웨어융합과, 고객응대 AI 에이전트 서비스 개발",
-    "link": "https://www.ekn.kr/web/view.php?key=20260701020358242",
-    "pubDate": "2026-07-01T06:43:37+00:00",
-    "displayDate": "2026-07-01",
-    "source": "에너지경제신문",
-    "lang": "ko"
-  },
-  {
-    "title": "앤트로픽 “AI 활용, 대화 넘어 에이전트 시대”…업무 자동화·협업 방식 변화",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403720",
-    "pubDate": "2026-07-01T06:40:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "테크월드",
-    "lang": "ko"
-  },
-  {
-    "title": "‘미토스’ 충격은 이제 시작···AWS “AI 에이전트 기반 보안 전략 전환 시급”",
-    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=212752",
-    "pubDate": "2026-07-01T06:33:21+00:00",
-    "displayDate": "2026-07-01",
-    "source": "데이터넷",
-    "lang": "ko"
-  },
-  {
-    "title": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간",
-    "link": "https://www.newsis.com/view/NISX20260701_0003691896",
-    "pubDate": "2026-07-01T06:30:40+00:00",
-    "displayDate": "2026-07-01",
-    "source": "뉴시스",
-    "lang": "ko"
-  },
-  {
-    "title": "Learn All Crypto Topics | Phemex Academy",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50WmUxd25ZamdrVFFpOTBoM1doRTRHUWVoVkhwXy0zVTlaUGc0UWh5QkVmQ19SdnBfbVkzcHdlNVJvaHhKc21PUVRQYnhaamdLa0tTQ0luREJZZF9ZcFltdW5lb3E0VXZSRVlOaUhmYUxyZHVRNmhSLS1R?oc=5",
-    "pubDate": "2026-07-01T06:29:06+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Phemex",
-    "lang": "en"
-  },
-  {
-    "title": "AI 해킹, AWS의 대응법은 ‘다층 방어’…LG CNS “보안 점검 40% 단축”",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JanUxSjhHa2tYV1RwNHdUN0ZHZWdBLWNYQVZNUXg4cjJ2aGhuUTk0ajlrczNYUWxIenlUS2phd3FBVUVueVE2TDE3Uk1hRWIyRGlmUE5NSGdFU1J1M0V2OFJqbXJWT0pHT2FReGg2N1DSAXRBVV95cUxPTVItTU1SN1hrVWpIMjJSUDVReWFROEE0aDVGNEM1SVdMb3J4LWdWRVU3MW5nLXpxZURNV3dtelk4UVlhWWpZek50X3JzSEVJcEZsbGdEY21WdjNQT3MwNmlVNlNybGlvMndWMENaanRUSkhxQw?oc=5",
-    "pubDate": "2026-07-01T06:25:35+00:00",
-    "displayDate": "2026-07-01",
-    "source": "IT조선",
-    "lang": "ko"
-  },
-  {
-    "title": "에이비일팔공, 마케팅 에이전트로 214억 시리즈C 투자 유치",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212314",
-    "pubDate": "2026-07-01T06:15:50+00:00",
-    "displayDate": "2026-07-01",
-    "source": "AI타임스",
-    "lang": "ko"
-  },
-  {
-    "title": "갤럭시아머니트리, AAIF·x402 동시 가입…AI 결제 인프라 겨냥",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UMHdDTUtNNUNFZnVMVjRPemI1bEVyYW03Y1RkY0FwYmVCV1FjcUFiTV9OSmoyZkZCbHBQQ2tVOVlxaElreDVaLV8wQld1djdvRWR1VU1DcnVzaUxQNkdXNzRCS1NWMTRB0gFsQVVfeXFMTnotbDBlVWMzZG45OWF4cU9NRFF5emMzVlFmQjBjRThxV0s3cGFFZFdudmNNRjZsSW01bHNhTnhVaEprd3BjdXkwU1QzNF9HQnA4N3M2YjJiZlRVNnVSU1A4RnJVQVI3eFVYcmFO?oc=5",
-    "pubDate": "2026-07-01T06:13:54+00:00",
-    "displayDate": "2026-07-01",
-    "source": "블로터",
-    "lang": "ko"
-  },
-  {
-    "title": "갤럭시아머니트리, AI 표준 논의 재단 AAIF∙x402 동시 가입 - 조선비즈",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDVUaWs1T2t4VzVCUnRLRTB1Y2tZeXZUZEw0d2RUbmhYZDJvVzhTUlUxZjR3VTZtNzlGY3dYZ09scEc0Sl9QRGk0MDBQaExSX2pTVWl3RGthZ0ltZ2lHbWhrTVI3MHUxVzNuYjBVRFpxMDVPX0l5M0N5MHBYMTMydnNwWG93RkZH0gGcAUFVX3lxTE5xSUwxR2lGYUl0dEZYcFU5MWVDazJuN0VBbUtIdDVjb3lTWFRORms1NWotTFJzRGQtR0F6ZGhsNUs4ckN1dEJ0aDBRZHFLYUlyMGZGNXJOQkVGS21MR0liVE9Ba25VcWpVdWhkR2N5T1M3THhaS3luWGFSNnZ1bl9FNHhCZVF1dDZaRmxQb0k5NjZKVXc4M0tCajBMSQ?oc=5",
-    "pubDate": "2026-07-01T06:12:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Chosunbiz",
-    "lang": "ko"
-  },
-  {
-    "title": "갤럭시아머니트리, AAIF·x402 재단 동시 가입",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DZWc0NTRFUnFERzRHNzA3OF9fTTEwRFBmX0tFVUU5bS0wSEk0ZWtRd3hnMjBpZWl0ZGxzQVV1Z2pRQlVDNGZabk1BLVdwODJVa3RuOFFpQ2xvQ1pWZU54SnRheVo1aVFSQVBtZ19hYw?oc=5",
-    "pubDate": "2026-07-01T05:55:34+00:00",
-    "displayDate": "2026-07-01",
-    "source": "뉴스톱",
-    "lang": "ko"
-  },
-  {
-    "title": "Digital Workforce Buys Agentic AI For Customer Service Business From Front AI",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRmw3czRmSWx5cEJwZURLeElPamdiU1kyT3BCV1JnUlRCZVc1VVg2eWZEX2s3S1p4ZlRZX2dSdlBPaG5aV3dralhGM29vckh3SXBEZU9xd3ozb1dtRHIyczRPWEVzcm81ejlrWm16dEVOZGJoSXRnOXo4QXktcUJFY2I1X0dabHM5eEUzZXpIVTlsMDg2RmhmQlRTeUhOalBiNXNhU1VYQjFkOU5QU1BYWENKYWtvTTJLNmMyanNLazlnUWN4RE1aUG8taXFsd2RqcVE0Yi0wLWlya1hxeXRCTA?oc=5",
-    "pubDate": "2026-07-01T05:55:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "TradingView",
-    "lang": "en"
-  },
-  {
-    "title": "Why the 'trust but verify' mindset can hinder agentic AI adoption",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZG1UMTFPUzhoQ2MwbG1UeEp6UUw5ZUlKUkRDSjhWWURvUFNpbU1WenJZdmpOYUpkc0xvSzg3UWcxbl9TTmpCN0pJQTdIdF9CbHFqaEtvNGh4ZHAyeVZ0WGJReUdsX1p1cUczQzdJMU4xQjBMbU5OUDI2VUt5UGhWVVFSeEF5VU1FT2MzV2ljTlpRVUJTd19ya1ZlRUZNM0JQ?oc=5",
-    "pubDate": "2026-07-01T05:52:33+00:00",
-    "displayDate": "2026-07-01",
-    "source": "CRN Australia",
-    "lang": "en"
-  },
-  {
-    "title": "빅테크에 안 뺏기는 ‘AI 에이전트’ 나왔다… 파울러스, 칸서 공개한 ‘Be.Ark’ 무료 배포",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IVHUyNGhFMW84T093LVVLRGRTT0Z6cjZJYW00Wm5fU19RbjdiVk9jNzRsWmhWeEZpYUVIMnBNb0IwcVIyNGRGSWE4djV6MDZ3ZUJvd3NHYll5d1lXZXJqOWlGWEtzaHNmdTJr?oc=5",
-    "pubDate": "2026-07-01T05:52:31+00:00",
-    "displayDate": "2026-07-01",
-    "source": "미디어픽",
-    "lang": "ko"
-  },
-  {
-    "title": "AI가 먼저 행동 제안한다…네이버, 실행형 AI 고도화",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TQXZ0c1BXaXBXZklTa21MRk50RmRSclBkVHprTkEwanFXaDVwRk1XLWJtZ0l3N1hBalJyTFNQYWNjN2lDV2FDSGRRWEJrZF9jTzU1RWw4RFVuMXBCa2JRUzFLa1ZJcDUzZUtmM3IwTQ?oc=5",
-    "pubDate": "2026-07-01T05:52:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "위키리크스한국",
-    "lang": "ko"
-  },
-  {
-    "title": "하나투어, 인센티브 여행 견적 자동화하는 AI 에이전트 전격 도입",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yYlJpYW5STlptQnFFT2ZVby1NdTRZTlY5VHBMaVpQQmxQdVpMSDJmbGdMX1JiRjRxY2MtQXdjWmZiQWZWVkhfTHpET0ljanpGa2liRWVYQnlySDM1enp5Q1YtS2dob0hyZE5j?oc=5",
-    "pubDate": "2026-07-01T05:49:17+00:00",
-    "displayDate": "2026-07-01",
-    "source": "퍼블릭뉴스통신",
-    "lang": "ko"
-  },
-  {
-    "title": "네이버, ‘AI 쇼핑 에이전트’ 정식 출시",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011025498270455",
-    "pubDate": "2026-07-01T05:48:10+00:00",
-    "displayDate": "2026-07-01",
-    "source": "대한경제",
-    "lang": "ko"
-  },
-  {
-    "title": "Inside information: Digital Workforce expands use of agentic AI and acquires Agentic AI for customer service business from Front AI Oy",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQzFqWjYxT0FhVVFwb19WeThzQmNEYWFZZDFlRUxXRDQ4eFo3VDgyYUU2VUMwVXV1WVBWTVVIRUJ5N1hUbGJkY1NndkppLXR3Q2dwbVVQTUs2TFEtY1J4YVVxUDA4c1kwVnZFY2pCNUZvVUpmenRodkR5V3Q4YTZnbDlQUzhwYTBPMlJUbXVDWm05ZG91b1J5RXJFM2gtbjh6VzBuWkJlNWZNaFJpUDgwZ2RkLXI5bGZIb2dKaVl4NjUtdmhtcDd1bHVqdlBGWUdodkpZQlZWVWRJdmpzaEQ0UkY5Wkg4U2s?oc=5",
-    "pubDate": "2026-07-01T05:46:07+00:00",
-    "displayDate": "2026-07-01",
-    "source": "marketscreener.com",
-    "lang": "en"
-  },
-  {
-    "title": "앤트로픽, 에이전트 AI '클로드 소넷 5' 출시…자율 작업 성능 강화",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96bm05czg0N0FIQy1UbGlnejVDNnNKMjJWS25mWWl4d3ctLU9kS21ES1RDd1pyTjJrdVd2ZENNT2REUVMtbTU2bDFRNzlsRzRrY2lKY3pHNWlJaTJoZlI1Nw?oc=5",
-    "pubDate": "2026-07-01T05:34:46+00:00",
-    "displayDate": "2026-07-01",
-    "source": "메트로신문",
-    "lang": "ko"
-  },
-  {
-    "title": "The agentic AI 'lethal trifecta': What CISOs should know",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmlZUC0xRjRxejlMc3B2NTNEel9TRWpVaG9SMVlwYWQtbV9nRjVTemJMWWd1NFNaeERnUDRHZEFabG5vUFpoVG9LMkFCeV9adC1wNzBManI2ektXTDhGU0tjbXZLZHAzeVpyTzJOQW5TdU5rMWFDRVRjX25PX0FZQ2dnaEJlVVZGY3NRQnQ1NWZmN3l0Z3E3YUlMcDdfUHZ6?oc=5",
-    "pubDate": "2026-07-01T05:26:43+00:00",
-    "displayDate": "2026-07-01",
-    "source": "TechTarget",
-    "lang": "en"
-  },
-  {
-    "title": "갤럭시아머니트리, AAIF∙x402 가입…\"AI 에이전트 결제 선점\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MLVBTdFdseVZOX2lBcnMzdjZnTU1yRnV1TW53VGhsRnB1cmpDOFp4WVh4LXotR2tfaTRyY0duWUw4STlFY05NdF9IdklfVGppOFJxVy01bkdwNWl1NjNmSdIBeEFVX3lxTE9oSE03Q19aUE03SHFqRmxLOTNsTU96Snl5VlVFb0pkQTVrUEZVZlU2SmZEZ2hWR25Tb1hiUld4d0NxS0RvZnp6UXpXVnRLbGRYVFRkSGQ1ZTRGamczVThPeC1hVm14SG5Vc0lQRWc3QWVDSGRkMUloRQ?oc=5",
-    "pubDate": "2026-07-01T05:21:32+00:00",
-    "displayDate": "2026-07-01",
-    "source": "뉴시스",
-    "lang": "ko"
-  },
-  {
-    "title": "AI가 검색부터 구매까지...‘AI 커머스’ 경쟁 본격화",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMUtldE1aNkFMcTFyS3ZnVnlfTjhiRDRGVmJCYkN1RG5HXzVXWnNVZVBaODNxU0F6MEY1dUI0RG1rS0NvNE9TTDBXZmtXWkI1T0xwaEdwOGFnSnlldVYxejZVZ0hkZHIxWWFxUU1TWQ?oc=5",
-    "pubDate": "2026-07-01T05:17:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "이코리아",
-    "lang": "ko"
-  },
-  {
-    "title": "앤트로픽, 에이전트형 AI '클로드 소넷 5' 출시…오퍼스급 성능, 낮은 가격에 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUDlvOUR2RHBnRUNLMTA5YkxpMVZCZ19SYlFPeVBWT3I2RFlsMktqUFNKcFEzcW5USUhlM2ZJSjNsUWtsWHdsM2NRRWYxYWVLTnBzcHBieEFSOHJqRjhaa1Q0TTNfdknSAWxBVV95cUxQUWZUcGpTWGVrUlNWd2JFWXlqczhieXp6NERvMngxN0ZLWmV2YzBNSllhV3ZVdW1uemdWYmlESXprbEN4eVdDWlN0S2oydE5TWXptal96c1BPUFVFenRTZ2lfTzVOdTdsczlwVjY?oc=5",
-    "pubDate": "2026-07-01T05:05:57+00:00",
-    "displayDate": "2026-07-01",
-    "source": "머니투데이",
-    "lang": "ko"
-  },
-  {
-    "title": "Worldline, Mastercard, and Crédit Agricole complete France's first AI agent payment",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkZNZUN6X3Y1V05hTVkwXzNxdXVMTmVBNnBWaGF1cE9JTjdvbkx5b09rUHhWLU5HSHZ3bTVtRWJGLWgxVVFpZTVXcndINUpoUkxFTzZ5bUFpQ0stVzRaWWUwa21IZ21zM0hTQnR3Nmd3VzFFeHloY181X1ppMnRTRHVvUmhSM19UemRva214aGdHRG82aGNIR0k3cHQzOWVmekVBTGFaUGRCMWk0VENrMDR3eFAwQmRfbExNTg?oc=5",
-    "pubDate": "2026-07-01T05:02:15+00:00",
-    "displayDate": "2026-07-01",
-    "source": "FinTech Futures",
-    "lang": "en"
-  },
-  {
-    "title": "Google restricts new Mac AI agent to $99.99 Ultra subscribers",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1ZHTExqZVhfbmJ1ODVabXA1UVBCUW4yMmQxeUsteWhDSTBtTUVlanJYV2RpSVJuVjlzOEN3VmVsY1Z3dHdpVERuVlNXd3FPaU40a1V3XzdMbHNXLVRickJHNnUyczA4SDhlYkdITlh6Qk5iRDhqS1E1YXEtQmlFZHJLVG8?oc=5",
-    "pubDate": "2026-07-01T04:56:44+00:00",
-    "displayDate": "2026-07-01",
-    "source": "PPC Land",
-    "lang": "en"
-  },
-  {
-    "title": "영국 중앙은행, AI 에이전트 대응 새 규제 시사",
-    "link": "https://www.yna.co.kr/amp/view/AKR20260701069300009",
-    "pubDate": "2026-07-01T04:54:48+00:00",
-    "displayDate": "2026-07-01",
-    "source": "연합뉴스",
-    "lang": "ko"
-  },
-  {
-    "title": "\"메시지·일정관리도 척척\"…SK텔레콤 '에이닷' 생활형 AI 에이전트로 확장",
-    "link": "https://www.metroseoul.co.kr/article/20260701500243",
-    "pubDate": "2026-07-01T04:40:18+00:00",
-    "displayDate": "2026-07-01",
-    "source": "메트로신문",
-    "lang": "ko"
-  },
-  {
-    "title": "\"AI 시대 보안, 시프트 레프트 주목하라...개발 단계서 취약점 찾아 고쳐야\"",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YVThXM25kSkQyU0tUQzlWbkUzcmtZRWYtM2xjVkF3WlMwVFN1WDJybnlmN3NqU25HWjA3dktrT0x2RDdmeEYyNHlad1ZGdDFhZ3phdlNTdDN4VV8tbkhhSW5ieU5rZVFsQ3ZOT0llV3htSm8?oc=5",
-    "pubDate": "2026-07-01T04:29:05+00:00",
-    "displayDate": "2026-07-01",
-    "source": "디지털투데이",
-    "lang": "ko"
-  },
-  {
-    "title": "'전기자전거' 치니 특징·차이 주르륵AI로 무장한 네이버쇼핑, 쿠팡 정조준",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90bl9kbVZqNlplYzVBcENBblgtdUFONDBXWG9zUTJYQVNQMUpfU3N3MUs2TjFjQmx6akpSb0VIZVNlQ1hZTGhNZ1BWcU9scENONnh1Nm95X3JjN2ExcTJLc1JCTGZlUTNrREMyTg?oc=5",
-    "pubDate": "2026-07-01T04:22:34+00:00",
-    "displayDate": "2026-07-01",
-    "source": "중소기업신문",
-    "lang": "ko"
-  },
-  {
-    "title": "\"5일 걸리던 침투테스트, 5시간 만에\"…LG CNS, AWS 보안 에이전트 실전 적용",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42N0hnU1BhRUsyd0NaUzh5d1QzRU1jdzdKQ0RvQlI5aDlQMHBXQy10Y0I5dklzbEpacEx2d0R2VThJZ2FIcEkycGVxaXJhdlNaZ0p1SjRuN3RtVG4wTW43aW5WNmI?oc=5",
-    "pubDate": "2026-07-01T04:09:56+00:00",
-    "displayDate": "2026-07-01",
-    "source": "디지털데일리",
-    "lang": "ko"
-  },
-  {
-    "title": "딥파인, 은평성모병원과 스마트글래스 기반 AI 에이전트 개발",
-    "link": "https://www.fajournal.com/news/articleView.html?idxno=21111",
-    "pubDate": "2026-07-01T04:07:35+00:00",
-    "displayDate": "2026-07-01",
-    "source": "FA저널",
-    "lang": "ko"
-  },
-  {
-    "title": "Intellabridge Launches Intella OS, an Agentic AI Operating System",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUndEa05DNEhQT052aFJwVjBFMjhXM2xBbzZIckcwd2xtTFlLX3pkNTliT0hPUlV2RDFCak91aVlnSlVoWEVEbHR6T2VoNmxIcndTMW1KcUlBVFNXaEIwcS1aWnNrbEtKcFFja1YyYmlXVkJNLVgwdjZNVjZwbkI5NFJoeURId0RXTlFrbVc5QjV1c09k?oc=5",
-    "pubDate": "2026-07-01T03:52:00+00:00",
-    "displayDate": "2026-07-01",
-    "source": "Yahoo! Finance Canada",
-    "lang": "en"
-  },
-  {
-    "title": "앤트로픽, '페이블5' 서비스 재개…에이전트형 AI '소넷5' 출시",
-    "link": "https://www.etnews.com/20260701000294",
-    "pubDate": "2026-07-01T03:15:14+00:00",
-    "displayDate": "2026-07-01",
-    "source": "전자신문",
-    "lang": "ko"
-  },
-  {
-    "title": "앤트로픽, '클로드 소네트 5' 공개… \"오퍼스급 에이전트 성능을 더 낮은 비용으로\"",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40772",
-    "pubDate": "2026-07-01T03:08:03+00:00",
-    "displayDate": "2026-07-01",
-    "source": "인공지능신문",
-    "lang": "ko"
-  },
-  {
-    "title": "‘AI 직원’ 무단 행동 사전 차단... 비욘드트러스트, AI 에이전트 권한 관리 솔루션 선보여",
-    "link": "https://v.daum.net/v/20260701115443670",
-    "pubDate": "2026-07-01T02:54:42+00:00",
-    "displayDate": "2026-07-01",
-    "source": "v.daum.net",
-    "lang": "ko"
-  },
-  {
-    "title": "Claude와 Blackwell Ultra의 만남: 이제 Azure에서 NVIDIA GB300으로 구동되는 Anthropic의 모델",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXZXUkdqODNvUDR4eUkyLXdWLW5TbGlYd2hJUmtsTllTeHVZS1NSdWhqdm8xbmZsS2Zyc3BLN1NRZVNMV1RROXdNRTVoS0hRalVJT2NSWlphaWdPbElqQnlUbUhad2FRVm5OYjlQRTZKenE4RTdwWGtIQlFHTFo5dUNfaDM3YTFPdzZ6MEVjTTc?oc=5",
-    "pubDate": "2026-07-01T02:48:48+00:00",
-    "displayDate": "2026-07-01",
-    "source": "NVIDIA Blog Korea",
-    "lang": "ko"
-  },
-  {
-    "title": "검색창 대신 AI와 대화한다…네이버 쇼핑의 달라진 문법",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DREhHM1dqOC1ULXozckc4RTBiSi1Rc1JQYzFEMk9zODQzSktoZ2N2VDRrWjFWM0piRW9lTy1ZMENiV2NNTWo0cGlnYXJIVWFSQzFRUS1XWUV2d19DMXdfX1lGSXc?oc=5",
-    "pubDate": "2026-07-01T02:42:36+00:00",
-    "displayDate": "2026-07-01",
-    "source": "디지털데일리",
-    "lang": "ko"
-  },
-  {
-    "title": "스마트인재개발원, 이달 말 '피지컬AI·AI 에이전트·데이터분석 과정' 개강…AX·DX 인재 양성",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QVmc2a0NSY3ByTXdfT0x3WVZONkxlLWR3UmxXa2FFcGtlYVZvb1FoLTRNdXBjRmNvMWROSlBuUHhrN1lqTVpicFRvUXZaQQ?oc=5",
-    "pubDate": "2026-07-01T02:32:55+00:00",
-    "displayDate": "2026-07-01",
-    "source": "전자신문",
-    "lang": "ko"
-  },
-  {
-    "title": "中 산업인터넷, AI 에이전트 단계로…\"공장도 자율 운영\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZmt6UmQ0WG1mZHYzWHlMbWM4WEVvTVpsUWRqdE1YSU5SQ3VwY0JZbURMNmMycHhvTVcxRTZzUzBwX1lkSEFlTW1FQUJfeXdlUktLWUl2ZWh5MUNpRVVZeHEzckxiRk0?oc=5",
-    "pubDate": "2026-07-01T02:22:22+00:00",
-    "displayDate": "2026-07-01",
-    "source": "연합뉴스TV",
-    "lang": "ko"
   }
 ]
